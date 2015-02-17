@@ -1,0 +1,2240 @@
+[05 Mar 2008 07:19:25 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 07:19:26 -0500] 75.207.207.165 1470635-1580998 / [open service] -
+[05 Mar 2008 07:56:21 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 07:56:22 -0500] 75.207.207.165 1470635-1580998 / [open service] -
+[05 Mar 2008 07:56:42 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 07:57:28 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 07:57:28 -0500] 75.207.207.165 1470635-1580998 / [open service] -
+[05 Mar 2008 07:57:59 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 07:58:23 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 07:58:23 -0500] 75.207.207.165 1470635-1580998 / [open service] -
+[05 Mar 2008 07:59:03 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 07:59:27 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 07:59:28 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 08:00:03 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 08:00:03 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 08:00:04 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 08:00:05 -0500] 75.207.207.165 ntsl942111 / [set service meta-info] -
+[05 Mar 2008 08:00:06 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 08:00:08 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 08:01:34 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 08:02:53 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 08:48:00 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 08:48:02 -0500] 75.207.207.165 1470635-1580998 / [open service] -
+[05 Mar 2008 08:48:14 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 08:48:15 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 08:48:23 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 08:48:24 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 08:48:24 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 08:48:25 -0500] 75.207.207.165 ntsl942111 / [get document] virtual_dispensary.html
+[05 Mar 2008 08:48:26 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 08:48:27 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer2.html
+[05 Mar 2008 08:48:27 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer.html
+[05 Mar 2008 08:48:28 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 08:48:28 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 08:48:29 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 08:48:29 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 08:50:44 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 08:52:40 -0500] 75.207.207.165 ntsl942111 / [get document] virtual_dispensary.html
+[05 Mar 2008 08:52:41 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer2.html
+[05 Mar 2008 08:52:42 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer.html
+[05 Mar 2008 08:52:42 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 08:53:36 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 09:21:43 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 09:27:52 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 09:27:57 -0500] 75.207.207.165 ntsl942111 / [get document] inside.html
+[05 Mar 2008 09:27:59 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer2.html
+[05 Mar 2008 09:27:59 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer.html
+[05 Mar 2008 09:28:00 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 09:33:09 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 09:34:34 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 09:34:56 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 09:34:58 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 09:36:51 -0500] 75.207.207.165 ntsl942111 / [get document] virtual_dispensary.html
+[05 Mar 2008 09:40:31 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 09:54:49 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 09:54:50 -0500] 75.207.207.165 ntsl942111 / [create url-directories] -
+[05 Mar 2008 09:54:51 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 09:54:54 -0500] 75.207.207.165 ntsl942111 / [move document] New_Folder
+[05 Mar 2008 10:41:45 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 10:46:14 -0500] 75.207.207.165 ntsl942111 / [get document] inside.html
+[05 Mar 2008 10:46:21 -0500] 75.207.207.165 ntsl942111 / [get document] virtual_dispensary.html
+[05 Mar 2008 10:50:54 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 10:51:10 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 10:51:17 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 11:25:09 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 11:25:10 -0500] 75.207.207.165 1470635-1580998 / [open service] -
+[05 Mar 2008 11:25:29 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 11:25:30 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 11:25:46 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 11:25:46 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 11:25:47 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 11:25:47 -0500] 75.207.207.165 ntsl942111 / [get document] inside.html
+[05 Mar 2008 11:25:48 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 11:25:49 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer2.html
+[05 Mar 2008 11:25:49 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer.html
+[05 Mar 2008 11:25:50 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 11:25:50 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 11:25:51 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 11:26:36 -0500] 75.207.207.165 ntsl942111 / [get document] virtual_dispensary.html
+[05 Mar 2008 11:38:33 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 11:45:58 -0500] 75.207.207.165 ntsl942111 / [get document] main.html
+[05 Mar 2008 11:57:37 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 12:11:36 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 12:11:42 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 12:11:47 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 13:21:29 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 13:21:30 -0500] 75.207.207.165 1470635-1580998 / [open service] -
+[05 Mar 2008 13:21:52 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 13:21:54 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 13:21:58 -0500] 75.207.207.165 1470635-1580998 - [server version] -
+[05 Mar 2008 13:21:59 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 13:21:59 -0500] 75.207.207.165 ntsl942111 / [open service] -
+[05 Mar 2008 13:22:00 -0500] 75.207.207.165 ntsl942111 / [get document] inside.html
+[05 Mar 2008 13:22:01 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 13:22:02 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer2.html
+[05 Mar 2008 13:22:02 -0500] 75.207.207.165 ntsl942111 / [get document] includes/footer.html
+[05 Mar 2008 13:22:03 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 13:22:03 -0500] 75.207.207.165 1470635-1580998 - [url to web url] -
+[05 Mar 2008 13:22:04 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 13:24:50 -0500] 75.207.207.165 ntsl942111 / [get document] main.html
+[05 Mar 2008 13:25:25 -0500] 75.207.207.165 ntsl942111 / [get document] virtual_dispensary.html
+[05 Mar 2008 13:36:44 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 13:36:52 -0500] 75.207.207.165 ntsl942111 / [put document] images/shapeimage2.jpg
+[05 Mar 2008 13:36:54 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 13:37:12 -0500] 75.207.207.165 ntsl942111 / [put document] images/shapeimage_2.jpg
+[05 Mar 2008 13:37:14 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 13:48:35 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 13:50:04 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 13:51:43 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 13:56:21 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 13:58:02 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 14:01:07 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 14:01:18 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 14:05:12 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 14:05:34 -0500] 75.207.207.165 ntsl942111 / [put document] includes/spacer.gif
+[05 Mar 2008 14:05:35 -0500] 75.207.207.165 ntsl942111 / [put document] includes/footer.html
+[05 Mar 2008 14:06:45 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:07:02 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 14:07:20 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 14:18:21 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:22:11 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:27:40 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:32:54 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:37:24 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 14:39:12 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 14:46:30 -0500] 75.207.207.165 ntsl942111 / [list documents] -
+[05 Mar 2008 14:46:34 -0500] 75.207.207.165 ntsl942111 / [put document] images/line.gif
+[05 Mar 2008 14:46:38 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 14:50:34 -0500] 75.207.207.165 ntsl942111 / [put document] images/line.gif
+[05 Mar 2008 14:50:35 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 14:52:32 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 14:54:04 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:54:14 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:56:25 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:57:46 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 14:58:39 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 15:02:06 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[05 Mar 2008 15:02:45 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 15:03:04 -0500] 75.207.207.165 ntsl942111 / [put document] inside.html
+[05 Mar 2008 15:08:10 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 15:09:18 -0500] 75.207.207.165 ntsl942111 / [put document] virtual_dispensary.html
+[05 Mar 2008 15:10:47 -0500] 75.207.207.165 ntsl942111 / [put document] main.html
+[06 Mar 2008 16:06:13 -0500] 75.204.238.240 1470635-1580998 - [server version] -
+[06 Mar 2008 16:06:14 -0500] 75.204.238.240 1470635-1580998 - [url to web url] -
+[06 Mar 2008 16:06:15 -0500] 75.204.238.240 1470635-1580998 / [open service] -
+[06 Mar 2008 16:06:20 -0500] 75.204.238.240 1470635-1580998 - [url to web url] -
+[06 Mar 2008 16:06:20 -0500] 75.204.238.240 1470635-1580998 / [open service] -
+[10 Jul 2008 10:28:19 -0400] 70.215.84.106 1470635-1580998 - [server version] -
+[10 Jul 2008 10:28:20 -0400] 70.215.84.106 1470635-1580998 - [url to web url] -
+[10 Jul 2008 10:28:21 -0400] 70.215.84.106 1470635-1580998 / [open service] -
+[10 Jul 2008 10:28:39 -0400] 70.215.84.106 ntsl942111 / [open service] -
+[10 Jul 2008 10:28:41 -0400] 70.215.84.106 ntsl942111 / [get document] inside.html
+[10 Jul 2008 10:28:43 -0400] 70.215.84.106 ntsl942111 / [get document] includes/footer.html
+[10 Jul 2008 10:28:45 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 10:30:36 -0400] 70.215.84.106 ntsl942111 / [put document] inside.html
+[10 Jul 2008 10:35:30 -0400] 70.215.84.106 ntsl942111 / [put document] inside.html
+[10 Jul 2008 10:36:54 -0400] 70.215.84.106 ntsl942111 / [put document] inside.html
+[10 Jul 2008 10:37:06 -0400] 70.215.84.106 ntsl942111 / [put document] about.html
+[10 Jul 2008 10:46:29 -0400] 70.215.84.106 1470635-1580998 - [url to web url] -
+[10 Jul 2008 10:46:30 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 10:46:34 -0400] 70.215.84.106 ntsl942111 / [put document] biomeridian.html
+[10 Jul 2008 10:46:36 -0400] 70.215.84.106 1470635-1580998 - [url to web url] -
+[10 Jul 2008 10:46:37 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 10:46:37 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 10:46:38 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 10:46:39 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 10:46:40 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 10:46:48 -0400] 70.215.84.106 ntsl942111 / [put documents] -
+[10 Jul 2008 10:50:16 -0400] 70.215.84.106 ntsl942111 / [get document] about.html
+[10 Jul 2008 10:50:47 -0400] 70.215.84.106 ntsl942111 / [put document] bios.html
+[10 Jul 2008 10:51:13 -0400] 70.215.84.106 ntsl942111 / [put document] bios.html
+[10 Jul 2008 10:51:17 -0400] 70.215.84.106 ntsl942111 / [get document] about.html
+[10 Jul 2008 10:53:04 -0400] 70.215.84.106 ntsl942111 / [get document] bios.html
+[10 Jul 2008 10:58:34 -0400] 70.215.84.106 ntsl942111 / [put document] naturopathic_medicine.html
+[10 Jul 2008 11:01:01 -0400] 70.215.84.106 ntsl942111 / [put document] ProfessionalFees.pdf
+[10 Jul 2008 11:01:11 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 11:01:38 -0400] 70.215.84.106 ntsl942111 / [get document] bios.html
+[10 Jul 2008 11:02:38 -0400] 70.215.84.106 ntsl942111 / [put document] bios.html
+[10 Jul 2008 11:04:29 -0400] 70.215.84.106 ntsl942111 / [put document] NewPatientPacket.pdf
+[10 Jul 2008 11:06:20 -0400] 70.215.84.106 ntsl942111 / [put document] OfficePolicies.pdf
+[10 Jul 2008 11:07:02 -0400] 70.215.84.106 ntsl942111 / [put document] about.html
+[10 Jul 2008 11:08:14 -0400] 70.215.84.106 ntsl942111 / [put document] about.html
+[10 Jul 2008 11:08:55 -0400] 70.215.84.106 ntsl942111 / [get document] main.html
+[10 Jul 2008 11:09:48 -0400] 70.215.84.106 ntsl942111 / [put document] ChicagoWellnessJan08.pdf
+[10 Jul 2008 11:10:14 -0400] 70.215.84.106 ntsl942111 / [put document] press.html
+[10 Jul 2008 11:11:28 -0400] 70.215.84.106 ntsl942111 / [put document] forms.html
+[10 Jul 2008 11:12:01 -0400] 70.215.84.106 ntsl942111 / [put document] Disclosure.pdf
+[10 Jul 2008 11:12:44 -0400] 70.215.84.106 ntsl942111 / [put document] MedicalRelease.pdf
+[10 Jul 2008 11:14:15 -0400] 70.215.84.106 1470635-1580998 - [url to web url] -
+[10 Jul 2008 11:14:16 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 11:14:22 -0400] 70.215.84.106 ntsl942111 / [put document] biomeridian.html
+[10 Jul 2008 11:14:23 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 11:14:23 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 11:14:24 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 11:14:25 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 11:14:25 -0400] 70.215.84.106 ntsl942111 / [getDocsMetaInfo] -
+[10 Jul 2008 11:14:37 -0400] 70.215.84.106 ntsl942111 / [put documents] -
+[10 Jul 2008 11:14:58 -0400] 70.215.84.106 ntsl942111 / [put document] PatientHistory.pdf
+[10 Jul 2008 11:17:24 -0400] 70.215.84.106 ntsl942111 / [put document] Registration Form.pdf
+[10 Jul 2008 11:20:05 -0400] 70.215.84.106 ntsl942111 / [put document] forms.html
+[10 Jul 2008 14:28:15 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 14:28:21 -0400] 70.215.84.106 ntsl942111 / [put document] main2.html
+[10 Jul 2008 14:31:41 -0400] 70.215.84.106 ntsl942111 / [put document] images/sunburst.gif
+[10 Jul 2008 14:49:26 -0400] 70.215.84.106 ntsl942111 / [put document] images/banner.gif
+[10 Jul 2008 14:55:16 -0400] 70.215.84.106 ntsl942111 / [get document] main.html
+[10 Jul 2008 14:55:52 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 14:59:54 -0400] 70.215.84.106 ntsl942111 / [put document] images/sunburst_background.gif
+[10 Jul 2008 15:06:57 -0400] 70.215.84.106 ntsl942111 / [put document] images/sunburst_background2.gif
+[10 Jul 2008 15:08:50 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 15:08:57 -0400] 70.215.84.106 ntsl942111 / [put document] main3.html
+[10 Jul 2008 15:10:34 -0400] 70.215.84.106 ntsl942111 / [put document] banner.gif
+[10 Jul 2008 15:10:36 -0400] 70.215.84.106 ntsl942111 / [put document] main2.html
+[10 Jul 2008 15:10:53 -0400] 70.215.84.106 ntsl942111 / [get document] main.html
+[10 Jul 2008 15:12:43 -0400] 70.215.84.106 ntsl942111 / [put document] images/sunburst2a.gif
+[10 Jul 2008 15:13:40 -0400] 70.215.84.106 ntsl942111 / [put document] main.html
+[10 Jul 2008 15:15:03 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 15:15:33 -0400] 70.215.84.106 ntsl942111 / [put document] includes/footer.html
+[10 Jul 2008 15:21:04 -0400] 70.215.84.106 ntsl942111 / [put document] includes/footer.html
+[10 Jul 2008 15:21:55 -0400] 70.215.84.106 ntsl942111 / [put document] includes/footer.html
+[10 Jul 2008 15:22:39 -0400] 70.215.84.106 ntsl942111 / [put document] includes/footer.html
+[10 Jul 2008 15:22:53 -0400] 70.215.84.106 ntsl942111 / [put document] main.html
+[10 Jul 2008 15:24:42 -0400] 70.215.84.106 ntsl942111 / [put document] main.html
+[10 Jul 2008 15:26:09 -0400] 70.215.84.106 ntsl942111 / [put document] main.html
+[10 Jul 2008 15:26:16 -0400] 70.215.84.106 ntsl942111 / [get document] naturopathic_medicine.html
+[10 Jul 2008 15:26:38 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 15:35:04 -0400] 70.215.84.106 ntsl942111 / [put document] naturopathic_medicine.html
+[10 Jul 2008 15:36:39 -0400] 70.215.84.106 ntsl942111 / [put document] includes/footer.html
+[10 Jul 2008 15:37:12 -0400] 70.215.84.106 ntsl942111 / [put document] naturopathic_medicine.html
+[10 Jul 2008 15:39:09 -0400] 70.215.84.106 ntsl942111 / [put document] main3.html
+[10 Jul 2008 15:39:13 -0400] 70.215.84.106 ntsl942111 / [put document] main2.html
+[10 Jul 2008 15:39:16 -0400] 70.215.84.106 ntsl942111 / [put document] main.html
+[10 Jul 2008 16:13:55 -0400] 70.215.84.106 ntsl942111 / [get document] naturopathic_medicine.html
+[10 Jul 2008 16:14:19 -0400] 70.215.84.106 ntsl942111 / [put document] naturopathic_medicine.html
+[10 Jul 2008 16:14:42 -0400] 70.215.84.106 ntsl942111 / [put document] naturopathic_medicine.html
+[10 Jul 2008 16:16:21 -0400] 70.215.84.106 ntsl942111 / [put document] naturopathic_medicine.html
+[10 Jul 2008 16:29:04 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 16:29:17 -0400] 70.215.84.106 ntsl942111 / [put document] main3.html
+[10 Jul 2008 16:29:26 -0400] 70.215.84.106 ntsl942111 / [get document] naturopathic_medicine.html
+[10 Jul 2008 16:34:26 -0400] 70.215.84.106 ntsl942111 / [get document] main.html
+[10 Jul 2008 16:35:12 -0400] 70.215.84.106 ntsl942111 / [put document] main.html
+[10 Jul 2008 16:35:30 -0400] 70.215.84.106 ntsl942111 / [get document] main3.html
+[10 Jul 2008 16:36:32 -0400] 70.215.84.106 ntsl942111 / [put document] main3.html
+[10 Jul 2008 16:46:25 -0400] 70.215.84.106 ntsl942111 / [put document] main2.html
+[10 Jul 2008 16:51:07 -0400] 70.215.84.106 ntsl942111 / [put document] main4.html
+[10 Jul 2008 16:51:40 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 16:52:32 -0400] 70.215.84.106 ntsl942111 / [put document] main4.html
+[10 Jul 2008 16:53:41 -0400] 70.215.84.106 ntsl942111 / [get document] naturopathic_medicine.html
+[10 Jul 2008 16:59:34 -0400] 70.215.84.106 ntsl942111 / [list documents] -
+[10 Jul 2008 16:59:40 -0400] 70.215.84.106 ntsl942111 / [put document] main2.html
+[11 Jul 2008 10:06:39 -0400] 70.209.146.1 1470635-1580998 - [server version] -
+[11 Jul 2008 10:06:40 -0400] 70.209.146.1 1470635-1580998 - [url to web url] -
+[11 Jul 2008 10:06:42 -0400] 70.209.146.1 1470635-1580998 / [open service] -
+[11 Jul 2008 10:07:11 -0400] 70.209.146.1 ntsl942111 / [open service] -
+[11 Jul 2008 10:07:14 -0400] 70.209.146.1 ntsl942111 / [get document] about.html
+[11 Jul 2008 10:07:16 -0400] 70.209.146.1 ntsl942111 / [get document] includes/footer.html
+[11 Jul 2008 10:07:19 -0400] 70.209.146.1 ntsl942111 / [list documents] -
+[11 Jul 2008 10:07:37 -0400] 70.209.146.1 ntsl942111 / [get document] bios.html
+[11 Jul 2008 10:14:27 -0400] 70.209.146.1 ntsl942111 / [get document] main.html
+[11 Jul 2008 10:14:34 -0400] 70.209.146.1 ntsl942111 / [get document] main2.html
+[11 Jul 2008 10:14:36 -0400] 70.209.146.1 ntsl942111 / [get document] main3.html
+[11 Jul 2008 10:14:40 -0400] 70.209.146.1 ntsl942111 / [get document] main4.html
+[11 Jul 2008 10:25:42 -0400] 70.209.146.1 ntsl942111 / [put document] bios.html
+[11 Jul 2008 10:29:20 -0400] 70.209.146.1 ntsl942111 / [put document] bios.html
+[11 Jul 2008 10:29:34 -0400] 70.209.146.1 ntsl942111 / [put document] bios.html
+[11 Jul 2008 10:36:07 -0400] 70.209.146.1 ntsl942111 / [put document] bios.html
+[11 Jul 2008 11:04:21 -0400] 70.209.146.1 ntsl942111 / [put document] main2.html
+[11 Jul 2008 11:04:39 -0400] 70.209.146.1 ntsl942111 / [put document] main2.html
+[11 Jul 2008 11:04:46 -0400] 70.209.146.1 ntsl942111 / [put document] main.html
+[11 Jul 2008 11:04:56 -0400] 70.209.146.1 ntsl942111 / [put document] bios.html
+[11 Jul 2008 11:05:06 -0400] 70.209.146.1 ntsl942111 / [put document] about.html
+[11 Jul 2008 11:05:10 -0400] 70.209.146.1 ntsl942111 / [put document] main4.html
+[11 Jul 2008 11:05:16 -0400] 70.209.146.1 ntsl942111 / [put document] main3.html
+[11 Jul 2008 11:05:20 -0400] 70.209.146.1 ntsl942111 / [list documents] -
+[14 Jul 2008 12:40:40 -0400] 75.206.72.44 1470635-1580998 - [server version] -
+[14 Jul 2008 12:40:40 -0400] 75.206.72.44 1470635-1580998 - [url to web url] -
+[14 Jul 2008 12:40:41 -0400] 75.206.72.44 1470635-1580998 / [open service] -
+[14 Jul 2008 12:40:52 -0400] 75.206.72.44 ntsl942111 / [open service] -
+[14 Jul 2008 12:40:53 -0400] 75.206.72.44 ntsl942111 / [get document] naturopathic_medicine.html
+[14 Jul 2008 12:40:56 -0400] 75.206.72.44 ntsl942111 / [get document] includes/footer.html
+[14 Jul 2008 12:40:58 -0400] 75.206.72.44 ntsl942111 / [list documents] -
+[14 Jul 2008 12:41:57 -0400] 75.206.72.44 ntsl942111 / [put document] naturopathic_medicine.html
+[14 Jul 2008 12:42:17 -0400] 75.206.72.44 ntsl942111 / [get document] main4.html
+[14 Jul 2008 12:44:58 -0400] 75.206.72.44 ntsl942111 / [put document] main4.html
+[14 Jul 2008 12:48:24 -0400] 75.206.72.44 ntsl942111 / [put document] main4.html
+[14 Jul 2008 13:07:58 -0400] 75.206.72.44 ntsl942111 / [put document] main4.html
+[14 Jul 2008 13:09:25 -0400] 75.206.72.44 ntsl942111 / [get document] main.html
+[14 Jul 2008 13:09:26 -0400] 75.206.72.44 ntsl942111 / [get document] main2.html
+[14 Jul 2008 13:09:28 -0400] 75.206.72.44 ntsl942111 / [get document] main3.html
+[14 Jul 2008 13:13:46 -0400] 75.206.72.44 ntsl942111 / [put document] images/sunbursta.gif
+[14 Jul 2008 13:13:50 -0400] 75.206.72.44 ntsl942111 / [list documents] -
+[14 Jul 2008 13:14:17 -0400] 75.206.72.44 ntsl942111 / [put document] main3.html
+[14 Jul 2008 13:15:06 -0400] 75.206.72.44 ntsl942111 / [put document] main3.html
+[14 Jul 2008 13:16:31 -0400] 75.206.72.44 ntsl942111 / [put document] main4.html
+[14 Jul 2008 13:17:03 -0400] 75.206.72.44 ntsl942111 / [put document] main2.html
+[14 Jul 2008 13:17:23 -0400] 75.206.72.44 ntsl942111 / [put document] main2.html
+[14 Jul 2008 13:18:07 -0400] 75.206.72.44 ntsl942111 / [put document] main4.html
+[14 Jul 2008 13:32:15 -0400] 75.206.72.44 ntsl942111 / [put document] main.html
+[14 Jul 2008 13:33:06 -0400] 75.206.72.44 ntsl942111 / [put document] naturopathic_medicine.html
+[14 Jul 2008 13:34:09 -0400] 75.206.72.44 ntsl942111 / [get document] about.html
+[14 Jul 2008 13:38:30 -0400] 75.206.72.44 ntsl942111 / [list documents] -
+[14 Jul 2008 13:38:36 -0400] 75.206.72.44 ntsl942111 / [put document] about.html
+[14 Jul 2008 13:38:44 -0400] 75.206.72.44 ntsl942111 / [get document] main2.html
+[14 Jul 2008 13:39:03 -0400] 75.206.72.44 ntsl942111 / [put document] main2.html
+[14 Jul 2008 13:40:09 -0400] 75.206.72.44 ntsl942111 / [put document] about.html
+[14 Jul 2008 13:41:04 -0400] 75.206.72.44 ntsl942111 / [put document] about.html
+[14 Jul 2008 13:43:42 -0400] 75.206.72.44 ntsl942111 / [get document] bios.html
+[14 Jul 2008 13:45:29 -0400] 75.206.72.44 ntsl942111 / [put document] bios.html
+[14 Jul 2008 13:46:28 -0400] 75.206.72.44 ntsl942111 / [list documents] -
+[14 Jul 2008 13:47:51 -0400] 75.206.72.44 ntsl942111 / [get document] main3.html
+[14 Jul 2008 13:48:58 -0400] 75.206.72.44 ntsl942111 / [put document] bios.html
+[14 Jul 2008 13:50:13 -0400] 75.206.72.44 ntsl942111 / [get document] biomeridian.html
+[14 Jul 2008 13:53:27 -0400] 75.206.72.44 1470635-1580998 - [url to web url] -
+[14 Jul 2008 13:53:28 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:31 -0400] 75.206.72.44 ntsl942111 / [put document] biomeridian2.html
+[14 Jul 2008 13:53:32 -0400] 75.206.72.44 1470635-1580998 - [url to web url] -
+[14 Jul 2008 13:53:33 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:33 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:34 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:34 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:35 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:41 -0400] 75.206.72.44 ntsl942111 / [put documents] -
+[14 Jul 2008 13:53:54 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:58 -0400] 75.206.72.44 ntsl942111 / [put document] biomeridian2.html
+[14 Jul 2008 13:53:58 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:59 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:53:59 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:54:00 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:54:01 -0400] 75.206.72.44 ntsl942111 / [getDocsMetaInfo] -
+[14 Jul 2008 13:54:06 -0400] 75.206.72.44 ntsl942111 / [put documents] -
+[16 Sep 2008 20:33:14 -0400] 75.205.230.108 1470635-1580998 - [server version] -
+[16 Sep 2008 20:33:14 -0400] 75.205.230.108 1470635-1580998 - [url to web url] -
+[16 Sep 2008 20:33:15 -0400] 75.205.230.108 1470635-1580998 / [open service] -
+[16 Sep 2008 20:34:21 -0400] 75.205.230.108 ntsl942111 / [open service] -
+[16 Sep 2008 20:34:22 -0400] 75.205.230.108 ntsl942111 / [get document] main.html
+[16 Sep 2008 20:34:23 -0400] 75.205.230.108 ntsl942111 / [get document] includes/footer.html
+[16 Sep 2008 20:34:25 -0400] 75.205.230.108 ntsl942111 / [list documents] -
+[16 Sep 2008 20:34:41 -0400] 75.205.230.108 ntsl942111 / [put document] main1.html
+[16 Sep 2008 21:03:05 -0400] 75.205.230.108 ntsl942111 / [list documents] -
+[16 Sep 2008 21:12:56 -0400] 75.205.230.108 ntsl942111 / [list documents] -
+[16 Sep 2008 21:13:05 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 21:26:30 -0400] 75.205.230.108 ntsl942111 / [get document] about.html
+[16 Sep 2008 21:42:13 -0400] 75.205.230.108 ntsl942111 / [put document] main_colors.html
+[16 Sep 2008 21:44:04 -0400] 75.205.230.108 ntsl942111 / [list documents] -
+[16 Sep 2008 21:45:05 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 21:52:02 -0400] 75.205.230.108 ntsl942111 / [get document] main_colors.html
+[16 Sep 2008 21:52:36 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 21:52:40 -0400] 75.205.230.108 ntsl942111 / [put document] about.html
+[16 Sep 2008 21:52:55 -0400] 75.205.230.108 ntsl942111 / [put document] office.html
+[16 Sep 2008 21:54:06 -0400] 75.205.230.108 ntsl942111 / [get document] biomeridian.html
+[16 Sep 2008 21:54:34 -0400] 75.205.230.108 ntsl942111 / [get document] biomeridian2.html
+[16 Sep 2008 21:54:51 -0400] 75.205.230.108 ntsl942111 / [get document] bios.html
+[16 Sep 2008 21:55:18 -0400] 75.205.230.108 ntsl942111 / [put document] bios.html
+[16 Sep 2008 21:55:26 -0400] 75.205.230.108 1470635-1580998 - [url to web url] -
+[16 Sep 2008 21:55:27 -0400] 75.205.230.108 ntsl942111 / [getDocsMetaInfo] -
+[16 Sep 2008 21:55:39 -0400] 75.205.230.108 ntsl942111 / [put document] biomeridian.html
+[16 Sep 2008 21:55:40 -0400] 75.205.230.108 1470635-1580998 - [url to web url] -
+[16 Sep 2008 21:55:40 -0400] 75.205.230.108 ntsl942111 / [getDocsMetaInfo] -
+[16 Sep 2008 21:55:41 -0400] 75.205.230.108 ntsl942111 / [getDocsMetaInfo] -
+[16 Sep 2008 21:55:41 -0400] 75.205.230.108 ntsl942111 / [getDocsMetaInfo] -
+[16 Sep 2008 21:55:42 -0400] 75.205.230.108 ntsl942111 / [getDocsMetaInfo] -
+[16 Sep 2008 21:55:42 -0400] 75.205.230.108 ntsl942111 / [getDocsMetaInfo] -
+[16 Sep 2008 21:55:52 -0400] 75.205.230.108 ntsl942111 / [put documents] -
+[16 Sep 2008 21:56:03 -0400] 75.205.230.108 ntsl942111 / [put document] office.html
+[16 Sep 2008 22:12:36 -0400] 75.205.230.108 ntsl942111 / [put document] office.html
+[16 Sep 2008 22:13:11 -0400] 75.205.230.108 ntsl942111 / [get document] forms.html
+[16 Sep 2008 22:14:40 -0400] 75.205.230.108 ntsl942111 / [list documents] -
+[16 Sep 2008 22:14:56 -0400] 75.205.230.108 ntsl942111 / [put document] forms2.html
+[16 Sep 2008 22:15:01 -0400] 75.205.230.108 ntsl942111 / [get web struct] -
+[16 Sep 2008 22:15:01 -0400] 75.205.230.108 ntsl942111 / [put web struct] -
+[16 Sep 2008 22:15:03 -0400] 75.205.230.108 ntsl942111 / [remove documents] forms.html
+[16 Sep 2008 22:15:33 -0400] 75.205.230.108 ntsl942111 / [get document] naturopathic_medicine.html
+[16 Sep 2008 22:16:43 -0400] 75.205.230.108 ntsl942111 / [put document] office.html
+[16 Sep 2008 22:16:47 -0400] 75.205.230.108 ntsl942111 / [get document] main.html
+[16 Sep 2008 22:16:50 -0400] 75.205.230.108 ntsl942111 / [get document] main2.html
+[16 Sep 2008 22:16:58 -0400] 75.205.230.108 ntsl942111 / [get document] main3.html
+[16 Sep 2008 22:17:04 -0400] 75.205.230.108 ntsl942111 / [get document] main4.html
+[16 Sep 2008 22:22:11 -0400] 75.205.230.108 ntsl942111 / [put document] forms.html
+[16 Sep 2008 22:23:43 -0400] 75.205.230.108 ntsl942111 / [put document] main_colors.html
+[16 Sep 2008 22:26:30 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 22:31:15 -0400] 75.205.230.108 ntsl942111 / [put document] main2.html
+[16 Sep 2008 22:38:15 -0400] 75.205.230.108 ntsl942111 / [put document] forms.html
+[16 Sep 2008 22:39:22 -0400] 75.205.230.108 ntsl942111 / [put document] forms.html
+[16 Sep 2008 22:49:00 -0400] 75.205.230.108 ntsl942111 / [get document] main_colors.html
+[16 Sep 2008 22:57:27 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 22:57:37 -0400] 75.205.230.108 ntsl942111 / [put document] main3.html
+[16 Sep 2008 22:57:42 -0400] 75.205.230.108 ntsl942111 / [put document] main2.html
+[16 Sep 2008 22:57:47 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 22:57:51 -0400] 75.205.230.108 ntsl942111 / [list documents] -
+[16 Sep 2008 22:57:58 -0400] 75.205.230.108 ntsl942111 / [put document] naturopathic_medicine.html
+[16 Sep 2008 22:59:05 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 23:00:00 -0400] 75.205.230.108 ntsl942111 / [get document] main_colors.html
+[16 Sep 2008 23:00:09 -0400] 75.205.230.108 ntsl942111 / [put document] main_colors.html
+[16 Sep 2008 23:02:05 -0400] 75.205.230.108 ntsl942111 / [put document] main3.html
+[16 Sep 2008 23:04:18 -0400] 75.205.230.108 ntsl942111 / [put document] main2.html
+[16 Sep 2008 23:04:44 -0400] 75.205.230.108 ntsl942111 / [put document] main2.html
+[16 Sep 2008 23:09:12 -0400] 75.205.230.108 ntsl942111 / [put document] main3.html
+[16 Sep 2008 23:17:31 -0400] 75.205.230.108 ntsl942111 / [put document] main2.html
+[16 Sep 2008 23:20:15 -0400] 75.205.230.108 ntsl942111 / [put document] main3.html
+[16 Sep 2008 23:21:18 -0400] 75.205.230.108 ntsl942111 / [get document] main4.html
+[16 Sep 2008 23:21:31 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 23:22:06 -0400] 75.205.230.108 ntsl942111 / [put document] main3.html
+[16 Sep 2008 23:22:23 -0400] 75.205.230.108 ntsl942111 / [put document] main3.html
+[16 Sep 2008 23:22:39 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 23:23:52 -0400] 75.205.230.108 ntsl942111 / [put document] main2.html
+[16 Sep 2008 23:27:08 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 23:30:05 -0400] 75.205.230.108 ntsl942111 / [list documents] -
+[16 Sep 2008 23:30:15 -0400] 75.205.230.108 ntsl942111 / [put document] main4a.html
+[16 Sep 2008 23:31:03 -0400] 75.205.230.108 ntsl942111 / [get document] main2.html
+[16 Sep 2008 23:31:46 -0400] 75.205.230.108 ntsl942111 / [put document] main2a.html
+[16 Sep 2008 23:31:55 -0400] 75.205.230.108 ntsl942111 / [get document] main4.html
+[16 Sep 2008 23:35:34 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 23:37:34 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 23:38:47 -0400] 75.205.230.108 ntsl942111 / [put document] main3.html
+[16 Sep 2008 23:41:43 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 23:42:50 -0400] 75.205.230.108 ntsl942111 / [put document] main.html
+[16 Sep 2008 23:43:06 -0400] 75.205.230.108 ntsl942111 / [put document] main2.html
+[16 Sep 2008 23:45:25 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 23:46:51 -0400] 75.205.230.108 ntsl942111 / [put document] main4.html
+[16 Sep 2008 23:50:37 -0400] 75.205.230.108 ntsl942111 / [put document] main4a.html
+[16 Sep 2008 23:50:47 -0400] 75.205.230.108 ntsl942111 / [put document] office.html
+[16 Sep 2008 23:57:27 -0400] 75.205.230.108 ntsl942111 / [put document] office.html
+[16 Sep 2008 23:59:03 -0400] 75.205.230.108 ntsl942111 / [put document] services.html
+[16 Sep 2008 23:59:16 -0400] 75.205.230.108 ntsl942111 / [get document] office.html
+[17 Sep 2008 00:04:12 -0400] 75.205.230.108 ntsl942111 / [put document] office.html
+[17 Sep 2008 17:15:27 -0400] 75.205.29.7 1470635-1580998 - [server version] -
+[17 Sep 2008 17:15:27 -0400] 75.205.29.7 1470635-1580998 - [url to web url] -
+[17 Sep 2008 17:15:28 -0400] 75.205.29.7 1470635-1580998 / [open service] -
+[17 Sep 2008 17:16:48 -0400] 75.205.29.7 ntsl942111 / [open service] -
+[17 Sep 2008 17:16:49 -0400] 75.205.29.7 ntsl942111 / [get document] main_colors.html
+[17 Sep 2008 17:16:50 -0400] 75.205.29.7 ntsl942111 / [get document] includes/footer.html
+[17 Sep 2008 17:16:51 -0400] 75.205.29.7 ntsl942111 / [list documents] -
+[17 Sep 2008 17:22:19 -0400] 75.205.29.7 ntsl942111 / [put document] main_colors.html
+[17 Sep 2008 17:22:22 -0400] 75.205.29.7 ntsl942111 / [get document] main.html
+[17 Sep 2008 17:22:29 -0400] 75.205.29.7 ntsl942111 / [get document] main1.html
+[17 Sep 2008 17:22:34 -0400] 75.205.29.7 ntsl942111 / [get document] main2.html
+[17 Sep 2008 17:22:37 -0400] 75.205.29.7 ntsl942111 / [get document] main3.html
+[17 Sep 2008 17:22:39 -0400] 75.205.29.7 ntsl942111 / [get document] main4.html
+[17 Sep 2008 17:23:52 -0400] 75.205.29.7 ntsl942111 / [put document] main2.html
+[17 Sep 2008 17:25:06 -0400] 75.205.29.7 ntsl942111 / [put document] main2.html
+[17 Sep 2008 17:26:06 -0400] 75.205.29.7 ntsl942111 / [put document] main5.html
+[17 Sep 2008 17:26:54 -0400] 75.205.29.7 ntsl942111 / [get document] main.html
+[17 Sep 2008 17:26:55 -0400] 75.205.29.7 ntsl942111 / [get document] main2.html
+[17 Sep 2008 17:26:57 -0400] 75.205.29.7 ntsl942111 / [get document] main3.html
+[17 Sep 2008 17:26:59 -0400] 75.205.29.7 ntsl942111 / [get document] main4.html
+[17 Sep 2008 17:27:02 -0400] 75.205.29.7 ntsl942111 / [get document] main5.html
+[17 Sep 2008 17:29:00 -0400] 75.205.29.7 ntsl942111 / [put document] main6.html
+[17 Sep 2008 17:29:08 -0400] 75.205.29.7 ntsl942111 / [get document] main2.html
+[17 Sep 2008 17:30:37 -0400] 75.205.29.7 ntsl942111 / [put document] main2.html
+[17 Sep 2008 17:30:59 -0400] 75.205.29.7 ntsl942111 / [put document] main.html
+[17 Sep 2008 17:32:29 -0400] 75.205.29.7 ntsl942111 / [put document] main.html
+[17 Sep 2008 17:33:31 -0400] 75.205.29.7 ntsl942111 / [put document] main.html
+[17 Sep 2008 17:34:27 -0400] 75.205.29.7 ntsl942111 / [get document] main2.html
+[17 Sep 2008 17:34:47 -0400] 75.205.29.7 ntsl942111 / [put document] main2.html
+[17 Sep 2008 18:01:45 -0400] 75.205.29.7 ntsl942111 / [get document] main6.html
+[17 Sep 2008 18:04:00 -0400] 75.205.29.7 ntsl942111 / [get document] main2a.html
+[17 Sep 2008 18:04:12 -0400] 75.205.29.7 ntsl942111 / [get document] main4a.html
+[17 Sep 2008 18:04:21 -0400] 75.205.29.7 ntsl942111 / [list documents] -
+[17 Sep 2008 18:04:22 -0400] 75.205.29.7 ntsl942111 / [get web struct] -
+[17 Sep 2008 18:04:23 -0400] 75.205.29.7 ntsl942111 / [remove documents] main4a.html
+[17 Sep 2008 18:04:27 -0400] 75.205.29.7 ntsl942111 / [remove documents] main2a.html
+[17 Sep 2008 18:04:34 -0400] 75.205.29.7 ntsl942111 / [get document] inside.html
+[17 Sep 2008 18:04:50 -0400] 75.205.29.7 ntsl942111 / [get document] about.html
+[17 Sep 2008 18:05:56 -0400] 75.205.29.7 ntsl942111 / [put document] main6.html
+[17 Sep 2008 18:07:46 -0400] 75.205.29.7 ntsl942111 / [put document] main6.html
+[17 Sep 2008 18:16:45 -0400] 75.205.29.7 ntsl942111 / [get document] biomeridian2.html
+[17 Sep 2008 18:47:51 -0400] 75.205.29.7 ntsl942111 / [list documents] -
+[17 Sep 2008 18:47:55 -0400] 75.205.29.7 ntsl942111 / [put document] main7.html
+[17 Sep 2008 18:56:18 -0400] 75.205.29.7 ntsl942111 / [put document] main7.html
+[17 Sep 2008 18:57:44 -0400] 75.205.29.7 ntsl942111 / [get document] main1.html
+[17 Sep 2008 18:58:00 -0400] 75.205.29.7 ntsl942111 / [put document] main1SAVE.html
+[17 Sep 2008 18:58:06 -0400] 75.205.29.7 ntsl942111 / [get document] main2.html
+[17 Sep 2008 18:58:21 -0400] 75.205.29.7 ntsl942111 / [put document] main1.html
+[17 Sep 2008 19:00:11 -0400] 75.205.29.7 ntsl942111 / [get document] main3.html
+[17 Sep 2008 19:00:50 -0400] 75.205.29.7 ntsl942111 / [put document] main2.html
+[17 Sep 2008 19:02:47 -0400] 75.205.29.7 ntsl942111 / [put document] main2.html
+[17 Sep 2008 19:04:31 -0400] 75.205.29.7 ntsl942111 / [get document] main3.html
+[17 Sep 2008 19:04:49 -0400] 75.205.29.7 ntsl942111 / [put document] main3.html
+[17 Sep 2008 19:11:28 -0400] 75.205.29.7 ntsl942111 / [put document] main7.html
+[17 Sep 2008 19:12:33 -0400] 75.205.29.7 ntsl942111 / [put document] main7.html
+[17 Sep 2008 19:15:54 -0400] 75.205.29.7 ntsl942111 / [put document] main7.html
+[17 Sep 2008 19:16:37 -0400] 75.205.29.7 ntsl942111 / [put document] main7.html
+[17 Sep 2008 19:17:02 -0400] 75.205.29.7 ntsl942111 / [put document] main7.html
+[17 Sep 2008 19:17:11 -0400] 75.205.29.7 ntsl942111 / [put document] main8.html
+[17 Sep 2008 19:19:12 -0400] 75.205.29.7 ntsl942111 / [list documents] -
+[17 Sep 2008 19:19:14 -0400] 75.205.29.7 ntsl942111 / [remove documents] main8.html
+[17 Sep 2008 19:22:03 -0400] 75.205.29.7 ntsl942111 / [get document] main1.html
+[17 Sep 2008 19:22:30 -0400] 75.205.29.7 ntsl942111 / [put document] main1.html
+[17 Sep 2008 19:33:52 -0400] 75.205.29.7 ntsl942111 / [put document] main5.html
+[11 Oct 2008 08:29:19 -0400] 75.207.202.98 1470635-1580998 - [server version] -
+[11 Oct 2008 08:29:20 -0400] 75.207.202.98 1470635-1580998 - [url to web url] -
+[11 Oct 2008 08:29:20 -0400] 75.207.202.98 1470635-1580998 / [open service] -
+[11 Oct 2008 08:30:16 -0400] 75.207.202.98 ntsl942111 / [open service] -
+[11 Oct 2008 08:30:17 -0400] 75.207.202.98 ntsl942111 / [get document] main4.html
+[11 Oct 2008 08:30:18 -0400] 75.207.202.98 ntsl942111 / [get document] includes/footer.html
+[11 Oct 2008 08:30:28 -0400] 75.207.202.98 ntsl942111 / [list documents] -
+[11 Oct 2008 08:38:41 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 08:38:52 -0400] 75.207.202.98 ntsl942111 / [get document] main4.html
+[11 Oct 2008 08:38:54 -0400] 75.207.202.98 ntsl942111 / [get document] includes/footer.html
+[11 Oct 2008 08:39:04 -0400] 75.207.202.98 ntsl942111 / [put document] main4a.html
+[11 Oct 2008 08:39:11 -0400] 75.207.202.98 ntsl942111 / [get document] main4b.html
+[11 Oct 2008 08:39:14 -0400] 75.207.202.98 ntsl942111 / [get document] includes/footer.html
+[11 Oct 2008 08:39:37 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 08:40:01 -0400] 75.207.202.98 ntsl942111 / [get document] main4.html
+[11 Oct 2008 08:40:02 -0400] 75.207.202.98 ntsl942111 / [get document] includes/footer.html
+[11 Oct 2008 08:40:06 -0400] 75.207.202.98 ntsl942111 / [get document] main4b.html
+[11 Oct 2008 08:40:13 -0400] 75.207.202.98 ntsl942111 / [get web struct] -
+[11 Oct 2008 08:40:14 -0400] 75.207.202.98 ntsl942111 / [remove documents] main4b.html
+[11 Oct 2008 08:40:59 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 08:41:43 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 08:44:58 -0400] 75.207.202.98 ntsl942111 / [get document] main4.html
+[11 Oct 2008 08:45:02 -0400] 75.207.202.98 ntsl942111 / [get document] includes/footer.html
+[11 Oct 2008 08:46:29 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 08:53:01 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 09:01:36 -0400] 75.207.202.98 ntsl942111 / [list documents] -
+[11 Oct 2008 09:01:41 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 09:04:30 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 09:07:25 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 09:23:16 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 09:25:40 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 09:26:13 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 09:32:40 -0400] 75.207.202.98 ntsl942111 / [get document] main4.html
+[11 Oct 2008 09:33:35 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 09:34:09 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 09:39:39 -0400] 75.207.202.98 ntsl942111 / [get document] main4.html
+[11 Oct 2008 09:58:09 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 09:59:23 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 10:04:37 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[11 Oct 2008 10:07:40 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 10:08:22 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 10:14:01 -0400] 75.207.202.98 1470635-1580998 - [server version] -
+[11 Oct 2008 10:14:02 -0400] 75.207.202.98 1470635-1580998 - [url to web url] -
+[11 Oct 2008 10:14:02 -0400] 75.207.202.98 1470635-1580998 / [open service] -
+[11 Oct 2008 10:14:19 -0400] 75.207.202.98 ntsl942111 / [open service] -
+[11 Oct 2008 10:14:20 -0400] 75.207.202.98 ntsl942111 / [get document] main4.html
+[11 Oct 2008 10:14:21 -0400] 75.207.202.98 ntsl942111 / [get document] includes/footer.html
+[11 Oct 2008 10:14:25 -0400] 75.207.202.98 ntsl942111 / [list documents] -
+[11 Oct 2008 10:14:47 -0400] 75.207.202.98 ntsl942111 / [get document] main4a.html
+[11 Oct 2008 10:14:48 -0400] 75.207.202.98 ntsl942111 / [get document] main4b.html
+[11 Oct 2008 10:15:12 -0400] 75.207.202.98 ntsl942111 / [put document] main4b.html
+[11 Oct 2008 10:15:32 -0400] 75.207.202.98 ntsl942111 / [put document] main4.html
+[18 Oct 2008 21:04:21 -0400] 75.207.58.42 1470635-1580998 - [server version] -
+[18 Oct 2008 21:04:22 -0400] 75.207.58.42 1470635-1580998 - [url to web url] -
+[18 Oct 2008 21:04:22 -0400] 75.207.58.42 1470635-1580998 / [open service] -
+[18 Oct 2008 21:04:42 -0400] 75.207.58.42 ntsl942111 / [open service] -
+[18 Oct 2008 21:04:43 -0400] 75.207.58.42 ntsl942111 / [get document] main4.html
+[18 Oct 2008 21:04:45 -0400] 75.207.58.42 ntsl942111 / [get document] includes/footer.html
+[18 Oct 2008 21:04:47 -0400] 75.207.58.42 ntsl942111 / [list documents] -
+[18 Oct 2008 21:10:28 -0400] 75.207.58.42 ntsl942111 / [put document] main4.html
+[18 Oct 2008 21:10:38 -0400] 75.207.58.42 ntsl942111 / [get document] main4a.html
+[18 Oct 2008 21:10:40 -0400] 75.207.58.42 ntsl942111 / [get document] main4b.html
+[18 Oct 2008 21:17:14 -0400] 75.207.58.42 ntsl942111 / [put document] main4a.html
+[18 Oct 2008 21:18:56 -0400] 75.207.58.42 ntsl942111 / [put document] main4a.html
+[18 Oct 2008 21:19:40 -0400] 75.207.58.42 ntsl942111 / [put document] main4a.html
+[18 Oct 2008 21:26:05 -0400] 75.207.58.42 ntsl942111 / [put document] main4b.html
+[18 Oct 2008 21:28:10 -0400] 75.207.58.42 ntsl942111 / [put document] main4.html
+[18 Oct 2008 21:29:02 -0400] 75.207.58.42 ntsl942111 / [put document] main4.html
+[18 Oct 2008 21:29:52 -0400] 75.207.58.42 ntsl942111 / [put document] main4b.html
+[18 Oct 2008 21:30:19 -0400] 75.207.58.42 ntsl942111 / [put document] main4b.html
+[18 Oct 2008 21:31:33 -0400] 75.207.58.42 ntsl942111 / [put document] main4b.html
+[18 Oct 2008 21:31:42 -0400] 75.207.58.42 ntsl942111 / [put document] main4c.html
+[18 Oct 2008 21:31:51 -0400] 75.207.58.42 ntsl942111 / [put document] main4c.html
+[06 Nov 2008 02:12:09 -0500] 75.204.45.238 1470635-1580998 - [server version] -
+[06 Nov 2008 02:12:09 -0500] 75.204.45.238 1470635-1580998 - [url to web url] -
+[06 Nov 2008 02:12:10 -0500] 75.204.45.238 1470635-1580998 / [open service] -
+[06 Nov 2008 02:12:45 -0500] 75.204.45.238 ntsl942111 / [open service] -
+[06 Nov 2008 02:12:47 -0500] 75.204.45.238 ntsl942111 / [get document] main4.html
+[06 Nov 2008 02:12:49 -0500] 75.204.45.238 ntsl942111 / [get document] includes/footer.html
+[06 Nov 2008 02:18:13 -0500] 75.204.45.238 ntsl942111 / [put document] main4.html
+[06 Nov 2008 02:18:20 -0500] 75.204.45.238 ntsl942111 / [get document] main4a.html
+[06 Nov 2008 02:18:31 -0500] 75.204.45.238 ntsl942111 / [get document] main4b.html
+[06 Nov 2008 02:18:33 -0500] 75.204.45.238 ntsl942111 / [get document] main4c.html
+[06 Nov 2008 02:18:53 -0500] 75.204.45.238 ntsl942111 / [get document] about.html
+[06 Nov 2008 02:19:00 -0500] 75.204.45.238 ntsl942111 / [get document] biomeridian.html
+[06 Nov 2008 02:19:15 -0500] 75.204.45.238 ntsl942111 / [get document] biomeridian2.html
+[06 Nov 2008 02:19:29 -0500] 75.204.45.238 ntsl942111 / [get document] bios.html
+[06 Nov 2008 02:19:40 -0500] 75.204.45.238 ntsl942111 / [get document] forms.html
+[06 Nov 2008 02:19:43 -0500] 75.204.45.238 ntsl942111 / [get document] forms2.html
+[06 Nov 2008 02:19:48 -0500] 75.204.45.238 ntsl942111 / [get document] inside.html
+[06 Nov 2008 02:20:13 -0500] 75.204.45.238 ntsl942111 / [get document] main_colors.html
+[06 Nov 2008 02:20:21 -0500] 75.204.45.238 ntsl942111 / [get web struct] -
+[06 Nov 2008 02:20:23 -0500] 75.204.45.238 ntsl942111 / [remove documents] main_colors.html
+[06 Nov 2008 02:20:28 -0500] 75.204.45.238 ntsl942111 / [get document] naturopathic_medicine.html
+[06 Nov 2008 02:30:53 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 02:36:08 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 02:39:50 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 02:43:45 -0500] 75.204.45.238 ntsl942111 / [get document] main4.html
+[06 Nov 2008 02:43:58 -0500] 75.204.45.238 ntsl942111 / [list documents] -
+[06 Nov 2008 02:44:10 -0500] 75.204.45.238 ntsl942111 / [put document] inside2.html
+[06 Nov 2008 02:55:25 -0500] 75.204.45.238 ntsl942111 / [put document] inside3.html
+[06 Nov 2008 02:58:40 -0500] 75.204.45.238 ntsl942111 / [get document] inside.html
+[06 Nov 2008 02:59:21 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 03:01:54 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 03:02:40 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 03:03:13 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 03:05:19 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 03:07:17 -0500] 75.204.45.238 ntsl942111 / [put document] inside3.html
+[06 Nov 2008 03:08:46 -0500] 75.204.45.238 ntsl942111 / [put document] inside3.html
+[06 Nov 2008 03:09:55 -0500] 75.204.45.238 ntsl942111 / [put document] inside3.html
+[06 Nov 2008 03:10:16 -0500] 75.204.45.238 ntsl942111 / [put document] inside3.html
+[06 Nov 2008 03:10:42 -0500] 75.204.45.238 ntsl942111 / [put document] inside3.html
+[06 Nov 2008 03:11:33 -0500] 75.204.45.238 ntsl942111 / [get document] main4.html
+[06 Nov 2008 03:11:42 -0500] 75.204.45.238 ntsl942111 / [put document] inside2.html
+[06 Nov 2008 03:16:21 -0500] 75.204.45.238 ntsl942111 / [put document] inside2.html
+[06 Nov 2008 03:18:19 -0500] 75.204.45.238 ntsl942111 / [put document] inside2.html
+[06 Nov 2008 03:21:30 -0500] 75.204.45.238 ntsl942111 / [put document] inside2.html
+[06 Nov 2008 03:21:43 -0500] 75.204.45.238 ntsl942111 / [put document] inside.html
+[06 Nov 2008 03:22:01 -0500] 75.204.45.238 ntsl942111 / [list documents] -
+[06 Nov 2008 03:22:52 -0500] 75.204.45.238 1470635-1580998 - [server version] -
+[06 Nov 2008 03:22:53 -0500] 75.204.45.238 1470635-1580998 - [url to web url] -
+[06 Nov 2008 03:22:53 -0500] 75.204.45.238 1470635-1580998 / [open service] -
+[06 Nov 2008 03:23:15 -0500] 75.204.45.238 ntsl942111 / [open service] -
+[06 Nov 2008 03:23:15 -0500] 75.204.45.238 ntsl942111 / [get document] inside2.html
+[06 Nov 2008 03:23:17 -0500] 75.204.45.238 ntsl942111 / [get document] includes/footer.html
+[06 Nov 2008 03:23:17 -0500] 75.204.45.238 ntsl942111 / [list documents] -
+[06 Nov 2008 03:23:26 -0500] 75.204.45.238 ntsl942111 / [put document] inside2.html
+[06 Nov 2008 03:23:55 -0500] 75.204.45.238 ntsl942111 / [put document] inside2.html
+[06 Nov 2008 19:23:27 -0500] 70.194.23.144 1470635-1580998 - [server version] -
+[06 Nov 2008 19:23:27 -0500] 70.194.23.144 1470635-1580998 - [url to web url] -
+[06 Nov 2008 19:23:28 -0500] 70.194.23.144 1470635-1580998 / [open service] -
+[06 Nov 2008 19:23:59 -0500] 70.194.23.144 ntsl942111 / [open service] -
+[06 Nov 2008 19:24:00 -0500] 70.194.23.144 ntsl942111 / [get document] inside.html
+[06 Nov 2008 19:24:01 -0500] 70.194.23.144 ntsl942111 / [get document] includes/footer.html
+[06 Nov 2008 19:24:03 -0500] 70.194.23.144 ntsl942111 / [list documents] -
+[06 Nov 2008 19:24:28 -0500] 70.194.23.144 ntsl942111 / [get document] about.html
+[06 Nov 2008 19:26:17 -0500] 70.194.23.144 ntsl942111 / [get document] virtual_dispensary.html
+[06 Nov 2008 19:26:25 -0500] 70.194.23.144 ntsl942111 / [get document] services.html
+[06 Nov 2008 19:26:40 -0500] 70.194.23.144 ntsl942111 / [get document] office.html
+[06 Nov 2008 19:27:28 -0500] 70.194.23.144 ntsl942111 / [get document] forms.html
+[06 Nov 2008 19:27:53 -0500] 70.194.23.144 ntsl942111 / [get document] bios.html
+[06 Nov 2008 19:28:20 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 19:33:00 -0500] 70.194.23.144 ntsl942111 / [put document] about2.html
+[06 Nov 2008 19:33:05 -0500] 70.194.23.144 ntsl942111 / [get document] inside.html
+[06 Nov 2008 19:33:49 -0500] 70.194.23.144 ntsl942111 / [put document] about2.html
+[06 Nov 2008 19:33:55 -0500] 70.194.23.144 ntsl942111 / [get document] naturopathic_medicine.html
+[06 Nov 2008 19:35:58 -0500] 70.194.23.144 ntsl942111 / [put document] naturopathic_medicine2.html
+[06 Nov 2008 19:36:29 -0500] 70.194.23.144 ntsl942111 / [put document] naturopathic_medicine2.html
+[06 Nov 2008 19:36:31 -0500] 70.194.23.144 ntsl942111 / [get document] biomeridian.html
+[06 Nov 2008 19:36:41 -0500] 70.194.23.144 ntsl942111 / [get document] biomeridian2.html
+[06 Nov 2008 19:39:43 -0500] 70.194.23.144 1470635-1580998 - [url to web url] -
+[06 Nov 2008 19:39:43 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:39:48 -0500] 70.194.23.144 ntsl942111 / [put document] biomeridian2.html
+[06 Nov 2008 19:39:48 -0500] 70.194.23.144 1470635-1580998 - [url to web url] -
+[06 Nov 2008 19:39:49 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:39:50 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:39:51 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:39:51 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:39:51 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:40:01 -0500] 70.194.23.144 ntsl942111 / [put documents] -
+[06 Nov 2008 19:40:30 -0500] 70.194.23.144 ntsl942111 / [get document] about.html
+[06 Nov 2008 19:40:41 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 19:40:47 -0500] 70.194.23.144 ntsl942111 / [get web struct] -
+[06 Nov 2008 19:40:49 -0500] 70.194.23.144 ntsl942111 / [remove documents] about2.html
+[06 Nov 2008 19:41:12 -0500] 70.194.23.144 ntsl942111 / [get document] naturopathic_medicine2.html
+[06 Nov 2008 19:41:23 -0500] 70.194.23.144 ntsl942111 / [put document] naturopathic_medicine.html
+[06 Nov 2008 19:41:29 -0500] 70.194.23.144 ntsl942111 / [remove documents] naturopathic_medicine2.html
+[06 Nov 2008 19:41:40 -0500] 70.194.23.144 ntsl942111 / [get document] biomeridian2.html
+[06 Nov 2008 19:42:06 -0500] 70.194.23.144 ntsl942111 / [remove documents] biomeridian.html
+[06 Nov 2008 19:42:32 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:42:33 -0500] 70.194.23.144 ntsl942111 / [move document] biomeridian2.html
+[06 Nov 2008 19:42:46 -0500] 70.194.23.144 ntsl942111 / [get document] ProfessionalFees.pdf
+[06 Nov 2008 19:45:43 -0500] 70.194.23.144 ntsl942111 / [get document] OfficePolicies.pdf
+[06 Nov 2008 19:46:42 -0500] 70.194.23.144 ntsl942111 / [get document] OfficePolicies.pdf
+[06 Nov 2008 19:47:55 -0500] 70.194.23.144 ntsl942111 / [get document] inside.html
+[06 Nov 2008 19:51:15 -0500] 70.194.23.144 ntsl942111 / [put document] office2.html
+[06 Nov 2008 19:52:53 -0500] 70.194.23.144 ntsl942111 / [remove documents] office.html
+[06 Nov 2008 19:53:01 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:53:01 -0500] 70.194.23.144 ntsl942111 / [move document] office2.html
+[06 Nov 2008 19:53:17 -0500] 70.194.23.144 ntsl942111 / [get document] inside.html
+[06 Nov 2008 19:55:05 -0500] 70.194.23.144 ntsl942111 / [list documents] -
+[06 Nov 2008 19:55:16 -0500] 70.194.23.144 ntsl942111 / [put document] services2.html
+[06 Nov 2008 19:55:28 -0500] 70.194.23.144 ntsl942111 / [remove documents] services.html
+[06 Nov 2008 19:55:34 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:55:35 -0500] 70.194.23.144 ntsl942111 / [move document] services2.html
+[06 Nov 2008 19:55:52 -0500] 70.194.23.144 ntsl942111 / [get document] inside.html
+[06 Nov 2008 19:57:52 -0500] 70.194.23.144 ntsl942111 / [get document] forms2.html
+[06 Nov 2008 19:58:10 -0500] 70.194.23.144 ntsl942111 / [put document] forms2.html
+[06 Nov 2008 19:58:15 -0500] 70.194.23.144 ntsl942111 / [remove documents] forms.html
+[06 Nov 2008 19:58:23 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 19:58:24 -0500] 70.194.23.144 ntsl942111 / [move document] forms2.html
+[06 Nov 2008 19:58:47 -0500] 70.194.23.144 ntsl942111 / [get document] inside.html
+[06 Nov 2008 19:59:51 -0500] 70.194.23.144 ntsl942111 / [put document] virtual_dispensary2.html
+[06 Nov 2008 20:00:01 -0500] 70.194.23.144 ntsl942111 / [remove documents] virtual_dispensary.html
+[06 Nov 2008 20:00:07 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 20:00:08 -0500] 70.194.23.144 ntsl942111 / [move document] virtual_dispensary2.html
+[06 Nov 2008 20:06:12 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 20:13:40 -0500] 70.194.23.144 ntsl942111 / [get document] bios.html
+[06 Nov 2008 20:20:22 -0500] 70.194.23.144 ntsl942111 / [put document] bios.htm
+[06 Nov 2008 20:20:24 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 20:21:31 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 20:25:22 -0500] 70.194.23.144 ntsl942111 / [get document] main4.html
+[06 Nov 2008 20:25:33 -0500] 70.194.23.144 ntsl942111 / [list documents] -
+[06 Nov 2008 20:26:51 -0500] 70.194.23.144 ntsl942111 / [put document] main4.html
+[06 Nov 2008 20:28:01 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 20:35:49 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 20:36:18 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 20:37:43 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 20:38:13 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 20:38:57 -0500] 70.194.23.144 ntsl942111 / [put document] main4.html
+[06 Nov 2008 20:39:00 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 20:50:42 -0500] 70.194.23.144 ntsl942111 / [put document] bios.htm
+[06 Nov 2008 20:50:44 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 21:02:04 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 21:03:03 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 21:03:42 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 21:04:08 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 21:04:40 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 21:05:59 -0500] 70.194.23.144 ntsl942111 / [get document] services.html
+[06 Nov 2008 21:06:14 -0500] 70.194.23.144 ntsl942111 / [put document] bios.html
+[06 Nov 2008 21:07:41 -0500] 70.194.23.144 ntsl942111 / [list documents] -
+[06 Nov 2008 21:07:59 -0500] 70.194.23.144 ntsl942111 / [put document] template.html
+[06 Nov 2008 21:08:11 -0500] 70.194.23.144 ntsl942111 / [put document] template.html
+[06 Nov 2008 21:08:12 -0500] 70.194.23.144 ntsl942111 / [get document] template.htm
+[06 Nov 2008 21:09:16 -0500] 70.194.23.144 ntsl942111 / [put document] template.htm
+[06 Nov 2008 21:11:16 -0500] 70.194.23.144 ntsl942111 / [put document] services2.html
+[06 Nov 2008 21:11:38 -0500] 70.194.23.144 ntsl942111 / [put document] services.htm
+[06 Nov 2008 21:12:40 -0500] 70.194.23.144 ntsl942111 / [put document] services2.html
+[06 Nov 2008 21:12:56 -0500] 70.194.23.144 ntsl942111 / [put document] services2.html
+[06 Nov 2008 21:13:15 -0500] 70.194.23.144 ntsl942111 / [remove documents] services.html
+[06 Nov 2008 21:13:23 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:13:23 -0500] 70.194.23.144 ntsl942111 / [move document] services2.html
+[06 Nov 2008 21:16:49 -0500] 70.194.23.144 ntsl942111 / [get document] office.html
+[06 Nov 2008 21:17:00 -0500] 70.194.23.144 ntsl942111 / [get document] template.html
+[06 Nov 2008 21:17:01 -0500] 70.194.23.144 ntsl942111 / [get document] template.htm
+[06 Nov 2008 21:17:30 -0500] 70.194.23.144 ntsl942111 / [put document] template.htm
+[06 Nov 2008 21:18:39 -0500] 70.194.23.144 ntsl942111 / [put document] office.htm
+[06 Nov 2008 21:19:05 -0500] 70.194.23.144 ntsl942111 / [put document] template.html
+[06 Nov 2008 21:19:32 -0500] 70.194.23.144 ntsl942111 / [put document] office2.html
+[06 Nov 2008 21:19:55 -0500] 70.194.23.144 ntsl942111 / [remove documents] office.html
+[06 Nov 2008 21:20:00 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:20:02 -0500] 70.194.23.144 ntsl942111 / [move document] office2.html
+[06 Nov 2008 21:20:06 -0500] 70.194.23.144 ntsl942111 / [get document] template.html
+[06 Nov 2008 21:20:08 -0500] 70.194.23.144 ntsl942111 / [get document] office.htm
+[06 Nov 2008 21:20:10 -0500] 70.194.23.144 ntsl942111 / [get document] template.htm
+[06 Nov 2008 21:20:40 -0500] 70.194.23.144 ntsl942111 / [get document] forms.html
+[06 Nov 2008 21:20:59 -0500] 70.194.23.144 ntsl942111 / [put document] forms.html
+[06 Nov 2008 21:21:20 -0500] 70.194.23.144 ntsl942111 / [put document] forms.html
+[06 Nov 2008 21:21:34 -0500] 70.194.23.144 ntsl942111 / [put document] forms.html
+[06 Nov 2008 21:21:47 -0500] 70.194.23.144 ntsl942111 / [put document] forms.html
+[06 Nov 2008 21:21:59 -0500] 70.194.23.144 ntsl942111 / [put document] forms.html
+[06 Nov 2008 21:22:59 -0500] 70.194.23.144 ntsl942111 / [put document] forms.html
+[06 Nov 2008 21:23:06 -0500] 70.194.23.144 ntsl942111 / [get document] virtual_dispensary.html
+[06 Nov 2008 21:23:18 -0500] 70.194.23.144 ntsl942111 / [put document] virtual_dispensary.html
+[06 Nov 2008 21:23:29 -0500] 70.194.23.144 ntsl942111 / [put document] virtual_dispensary.html
+[06 Nov 2008 21:27:36 -0500] 70.194.23.144 ntsl942111 / [put document] virtual_dispensary.html
+[06 Nov 2008 21:27:42 -0500] 70.194.23.144 ntsl942111 / [get document] naturopathic_medicine.html
+[06 Nov 2008 21:27:55 -0500] 70.194.23.144 ntsl942111 / [put document] naturopathic_medicine.html
+[06 Nov 2008 21:28:57 -0500] 70.194.23.144 ntsl942111 / [put document] template.htm
+[06 Nov 2008 21:29:23 -0500] 70.194.23.144 ntsl942111 / [put document] naturopathic.htm
+[06 Nov 2008 21:30:50 -0500] 70.194.23.144 ntsl942111 / [get document] naturopathic.htm
+[06 Nov 2008 21:31:26 -0500] 70.194.23.144 ntsl942111 / [put document] naturopathic_medicine2.html
+[06 Nov 2008 21:31:36 -0500] 70.194.23.144 ntsl942111 / [get document] template.html
+[06 Nov 2008 21:31:38 -0500] 70.194.23.144 ntsl942111 / [get document] template.htm
+[06 Nov 2008 21:31:40 -0500] 70.194.23.144 ntsl942111 / [get document] office.htm
+[06 Nov 2008 21:33:04 -0500] 70.194.23.144 ntsl942111 / [remove documents] naturopathic_medicine.html
+[06 Nov 2008 21:33:10 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:33:11 -0500] 70.194.23.144 ntsl942111 / [move document] naturopathic_medicine2.html
+[06 Nov 2008 21:36:38 -0500] 70.194.23.144 ntsl942111 / [get document] biomeridian.html
+[06 Nov 2008 21:39:39 -0500] 70.194.23.144 ntsl942111 / [list documents] -
+[06 Nov 2008 21:43:07 -0500] 70.194.23.144 1470635-1580998 - [url to web url] -
+[06 Nov 2008 21:43:09 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:43:15 -0500] 70.194.23.144 ntsl942111 / [put document] bio.htm
+[06 Nov 2008 21:43:16 -0500] 70.194.23.144 1470635-1580998 - [url to web url] -
+[06 Nov 2008 21:43:17 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:43:18 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:43:18 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:43:19 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:43:21 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:43:38 -0500] 70.194.23.144 ntsl942111 / [put documents] -
+[06 Nov 2008 21:45:16 -0500] 70.194.23.144 ntsl942111 / [put document] biomeridian2.html
+[06 Nov 2008 21:45:58 -0500] 70.194.23.144 ntsl942111 / [remove documents] biomeridian.html
+[06 Nov 2008 21:46:06 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:46:07 -0500] 70.194.23.144 ntsl942111 / [move document] biomeridian2.html
+[06 Nov 2008 21:47:48 -0500] 70.194.23.144 ntsl942111 / [get document] bio.htm
+[06 Nov 2008 21:48:25 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:48:31 -0500] 70.194.23.144 ntsl942111 / [put document] bio.htm
+[06 Nov 2008 21:48:32 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:48:33 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:48:34 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:48:35 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:48:36 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:48:44 -0500] 70.194.23.144 ntsl942111 / [put documents] -
+[06 Nov 2008 21:48:52 -0500] 70.194.23.144 ntsl942111 / [get document] naturopathic.htm
+[06 Nov 2008 21:49:18 -0500] 70.194.23.144 ntsl942111 / [put document] naturopathic.htm
+[06 Nov 2008 21:49:23 -0500] 70.194.23.144 ntsl942111 / [get document] office.htm
+[06 Nov 2008 21:49:46 -0500] 70.194.23.144 ntsl942111 / [put document] office.htm
+[06 Nov 2008 21:49:55 -0500] 70.194.23.144 ntsl942111 / [get document] services.htm
+[06 Nov 2008 21:50:16 -0500] 70.194.23.144 ntsl942111 / [put document] services.htm
+[06 Nov 2008 21:50:24 -0500] 70.194.23.144 ntsl942111 / [get document] template.htm
+[06 Nov 2008 21:50:44 -0500] 70.194.23.144 ntsl942111 / [put document] template.htm
+[06 Nov 2008 21:50:51 -0500] 70.194.23.144 ntsl942111 / [get document] bios.htm
+[06 Nov 2008 21:51:16 -0500] 70.194.23.144 ntsl942111 / [put document] bios.htm
+[06 Nov 2008 21:54:08 -0500] 70.194.23.144 ntsl942111 / [get document] bio.htm
+[06 Nov 2008 21:56:15 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:56:21 -0500] 70.194.23.144 ntsl942111 / [put document] bio.htm
+[06 Nov 2008 21:56:22 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:56:24 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:56:25 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:56:25 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:56:26 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:56:42 -0500] 70.194.23.144 ntsl942111 / [put documents] -
+[06 Nov 2008 21:57:41 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:57:52 -0500] 70.194.23.144 ntsl942111 / [put document] bio.htm
+[06 Nov 2008 21:57:52 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:57:53 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:57:53 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:57:54 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:57:55 -0500] 70.194.23.144 ntsl942111 / [getDocsMetaInfo] -
+[06 Nov 2008 21:58:15 -0500] 70.194.23.144 ntsl942111 / [put documents] -
+[06 Nov 2008 22:00:13 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 22:00:42 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 22:01:13 -0500] 70.194.23.144 ntsl942111 / [put document] about.html
+[06 Nov 2008 22:08:30 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:11:08 -0500] 70.194.23.144 ntsl942111 / [list documents] -
+[06 Nov 2008 22:13:30 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:15:01 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:15:13 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:15:38 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:16:09 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:16:45 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:17:11 -0500] 70.194.23.144 ntsl942111 / [put document] contact.html
+[06 Nov 2008 22:18:01 -0500] 70.194.23.144 ntsl942111 / [get document] main4.html
+[06 Nov 2008 22:18:03 -0500] 70.194.23.144 ntsl942111 / [get document] includes/footer.html
+[06 Nov 2008 22:18:30 -0500] 70.194.23.144 ntsl942111 / [put document] main4.html
+[07 Nov 2008 15:41:22 -0500] 70.194.231.28 1470635-1580998 - [server version] -
+[07 Nov 2008 15:41:23 -0500] 70.194.231.28 1470635-1580998 - [url to web url] -
+[07 Nov 2008 15:41:24 -0500] 70.194.231.28 1470635-1580998 / [open service] -
+[07 Nov 2008 15:42:02 -0500] 70.194.231.28 ntsl942111 / [open service] -
+[07 Nov 2008 15:42:04 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 15:42:06 -0500] 70.194.231.28 ntsl942111 / [get document] includes/footer.html
+[07 Nov 2008 15:42:08 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 15:44:00 -0500] 70.194.231.28 ntsl942111 / [put document] images/biophoto.gif
+[07 Nov 2008 15:44:53 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 15:44:59 -0500] 70.194.231.28 ntsl942111 / [get web struct] -
+[07 Nov 2008 15:45:01 -0500] 70.194.231.28 ntsl942111 / [remove documents] images/biophoto.gif
+[07 Nov 2008 15:45:36 -0500] 70.194.231.28 ntsl942111 / [put document] images/biophoto.gif
+[07 Nov 2008 15:45:42 -0500] 70.194.231.28 ntsl942111 / [put document] images/biophoto2.gif
+[07 Nov 2008 15:48:12 -0500] 70.194.231.28 ntsl942111 / [get document] services.htm
+[07 Nov 2008 15:48:15 -0500] 70.194.231.28 ntsl942111 / [get document] services.html
+[07 Nov 2008 15:48:16 -0500] 70.194.231.28 ntsl942111 / [get document] services.htm
+[07 Nov 2008 16:07:52 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 16:10:25 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 16:10:57 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 16:11:29 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 16:11:56 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 16:12:28 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 16:13:08 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 16:14:31 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 17:34:57 -0500] 70.194.231.28 1470635-1580998 - [server version] -
+[07 Nov 2008 17:34:57 -0500] 70.194.231.28 1470635-1580998 - [url to web url] -
+[07 Nov 2008 17:34:58 -0500] 70.194.231.28 1470635-1580998 / [open service] -
+[07 Nov 2008 17:35:23 -0500] 70.194.231.28 ntsl942111 / [open service] -
+[07 Nov 2008 17:35:24 -0500] 70.194.231.28 ntsl942111 / [get document] main4.html
+[07 Nov 2008 17:35:25 -0500] 70.194.231.28 ntsl942111 / [get document] includes/footer.html
+[07 Nov 2008 17:35:27 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 17:35:43 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 17:35:46 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 17:39:06 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 17:40:08 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 17:40:44 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 17:41:26 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 17:51:00 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 17:53:08 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 17:54:25 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 18:09:31 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 18:12:07 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 18:12:40 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 18:13:00 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 18:15:03 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 18:27:10 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 18:29:33 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 18:29:34 -0500] 70.194.231.28 ntsl942111 / [get document] includes/footer.html
+[07 Nov 2008 18:29:39 -0500] 70.194.231.28 ntsl942111 / [get document] main4.html
+[07 Nov 2008 18:43:42 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 18:53:51 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 18:55:55 -0500] 70.194.231.28 ntsl942111 / [put document] includes/footer.html
+[07 Nov 2008 18:56:16 -0500] 70.194.231.28 ntsl942111 / [put document] includes/footer.html
+[07 Nov 2008 18:56:31 -0500] 70.194.231.28 ntsl942111 / [put document] includes/footer.html
+[07 Nov 2008 18:56:44 -0500] 70.194.231.28 ntsl942111 / [put document] includes/footer.html
+[07 Nov 2008 19:01:34 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 19:06:54 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:07:14 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 19:09:05 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:09:30 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:09:47 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:12:34 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 19:15:43 -0500] 70.194.231.28 ntsl942111 / [put document] main4.html
+[07 Nov 2008 19:21:16 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 19:21:17 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 19:26:28 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:27:01 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 19:27:10 -0500] 70.194.231.28 ntsl942111 / [put document] biomeridian2.html
+[07 Nov 2008 19:28:14 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian2.html
+[07 Nov 2008 19:28:42 -0500] 70.194.231.28 ntsl942111 / [put document] biomeridian2.html
+[07 Nov 2008 19:30:49 -0500] 70.194.231.28 ntsl942111 / [put document] biomeridian2.html
+[07 Nov 2008 19:31:49 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 19:33:33 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:35:26 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:36:15 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:37:22 -0500] 70.194.231.28 ntsl942111 / [put document] about.html
+[07 Nov 2008 19:39:29 -0500] 70.194.231.28 ntsl942111 / [get document] bios.html
+[07 Nov 2008 19:39:30 -0500] 70.194.231.28 ntsl942111 / [get document] bios.htm
+[07 Nov 2008 19:39:39 -0500] 70.194.231.28 ntsl942111 / [get web struct] -
+[07 Nov 2008 19:39:41 -0500] 70.194.231.28 ntsl942111 / [remove documents] biomeridian.html
+[07 Nov 2008 19:39:48 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 19:39:49 -0500] 70.194.231.28 ntsl942111 / [move document] biomeridian2.html
+[07 Nov 2008 19:39:53 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 19:42:34 -0500] 70.194.231.28 ntsl942111 / [put document] bios2.html
+[07 Nov 2008 19:44:52 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 19:44:53 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 19:45:14 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 19:46:57 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 19:46:58 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 19:50:04 -0500] 70.194.231.28 ntsl942111 / [put document] bios2.html
+[07 Nov 2008 19:53:21 -0500] 70.194.231.28 ntsl942111 / [put document] bios2.html
+[07 Nov 2008 19:56:32 -0500] 70.194.231.28 ntsl942111 / [get document] bios.htm
+[07 Nov 2008 19:57:34 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 19:57:46 -0500] 70.194.231.28 ntsl942111 / [put document] bios3.html
+[07 Nov 2008 19:59:11 -0500] 70.194.231.28 ntsl942111 / [remove documents] bios2.html
+[07 Nov 2008 19:59:20 -0500] 70.194.231.28 ntsl942111 / [remove documents] bios.html
+[07 Nov 2008 19:59:28 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 19:59:29 -0500] 70.194.231.28 ntsl942111 / [move document] bios3.html
+[07 Nov 2008 19:59:34 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 19:59:35 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 20:00:15 -0500] 70.194.231.28 ntsl942111 / [get document] contact.html
+[07 Nov 2008 20:00:50 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 20:03:19 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 20:04:38 -0500] 70.194.231.28 ntsl942111 / [put document] contact2.html
+[07 Nov 2008 20:04:50 -0500] 70.194.231.28 ntsl942111 / [remove documents] contact.html
+[07 Nov 2008 20:04:57 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 20:04:57 -0500] 70.194.231.28 ntsl942111 / [move document] contact2.html
+[07 Nov 2008 20:05:56 -0500] 70.194.231.28 ntsl942111 / [get document] contact.html
+[07 Nov 2008 20:08:45 -0500] 70.194.231.28 ntsl942111 / [put document] contact.html
+[07 Nov 2008 20:09:18 -0500] 70.194.231.28 ntsl942111 / [put document] contact.html
+[07 Nov 2008 20:09:44 -0500] 70.194.231.28 ntsl942111 / [put document] contact.html
+[07 Nov 2008 20:10:21 -0500] 70.194.231.28 ntsl942111 / [get document] forms.html
+[07 Nov 2008 20:10:44 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 20:11:36 -0500] 70.194.231.28 ntsl942111 / [put document] forms2.html
+[07 Nov 2008 20:12:23 -0500] 70.194.231.28 ntsl942111 / [put document] forms2.html
+[07 Nov 2008 20:12:42 -0500] 70.194.231.28 ntsl942111 / [remove documents] forms.html
+[07 Nov 2008 20:12:49 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 20:12:49 -0500] 70.194.231.28 ntsl942111 / [move document] forms2.html
+[07 Nov 2008 20:13:14 -0500] 70.194.231.28 ntsl942111 / [get document] forms.html
+[07 Nov 2008 20:13:23 -0500] 70.194.231.28 ntsl942111 / [put document] forms.html
+[07 Nov 2008 20:13:59 -0500] 70.194.231.28 ntsl942111 / [get document] naturopathic_medicine.html
+[07 Nov 2008 20:14:00 -0500] 70.194.231.28 ntsl942111 / [get document] naturopathic.htm
+[07 Nov 2008 20:14:37 -0500] 70.194.231.28 ntsl942111 / [get document] naturopathic.htm
+[07 Nov 2008 20:15:16 -0500] 70.194.231.28 ntsl942111 / [put document] naturopathic_medicine2.html
+[07 Nov 2008 20:15:56 -0500] 70.194.231.28 ntsl942111 / [remove documents] naturopathic_medicine.html
+[07 Nov 2008 20:16:05 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 20:16:05 -0500] 70.194.231.28 ntsl942111 / [move document] naturopathic_medicine2.html
+[07 Nov 2008 20:16:36 -0500] 70.194.231.28 ntsl942111 / [get document] office.html
+[07 Nov 2008 20:16:37 -0500] 70.194.231.28 ntsl942111 / [get document] office.htm
+[07 Nov 2008 20:16:51 -0500] 70.194.231.28 ntsl942111 / [get document] press.html
+[07 Nov 2008 20:17:01 -0500] 70.194.231.28 ntsl942111 / [remove documents] press.html
+[07 Nov 2008 20:17:26 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 20:17:27 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 20:17:50 -0500] 70.194.231.28 ntsl942111 / [get document] office.htm
+[07 Nov 2008 20:18:22 -0500] 70.194.231.28 ntsl942111 / [put document] office2.html
+[07 Nov 2008 20:18:35 -0500] 70.194.231.28 ntsl942111 / [remove documents] office.html
+[07 Nov 2008 20:18:43 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 20:18:44 -0500] 70.194.231.28 ntsl942111 / [move document] office2.html
+[07 Nov 2008 20:18:49 -0500] 70.194.231.28 ntsl942111 / [get document] services.html
+[07 Nov 2008 20:18:50 -0500] 70.194.231.28 ntsl942111 / [get document] services.htm
+[07 Nov 2008 20:18:54 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 20:18:55 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 20:19:50 -0500] 70.194.231.28 ntsl942111 / [put document] services2.html
+[07 Nov 2008 20:19:57 -0500] 70.194.231.28 ntsl942111 / [remove documents] services.html
+[07 Nov 2008 20:20:03 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 20:20:04 -0500] 70.194.231.28 ntsl942111 / [move document] services2.html
+[07 Nov 2008 20:20:09 -0500] 70.194.231.28 ntsl942111 / [get document] template.html
+[07 Nov 2008 20:20:10 -0500] 70.194.231.28 ntsl942111 / [get document] office.htm
+[07 Nov 2008 20:20:13 -0500] 70.194.231.28 ntsl942111 / [get document] office.htm
+[07 Nov 2008 20:20:18 -0500] 70.194.231.28 ntsl942111 / [remove documents] template.html
+[07 Nov 2008 20:20:21 -0500] 70.194.231.28 ntsl942111 / [remove documents] template.htm
+[07 Nov 2008 20:20:24 -0500] 70.194.231.28 ntsl942111 / [get document] virtual_dispensary.html
+[07 Nov 2008 20:20:32 -0500] 70.194.231.28 ntsl942111 / [get document] biomeridian.html
+[07 Nov 2008 20:20:33 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 20:20:52 -0500] 70.194.231.28 ntsl942111 / [get document] bio.htm
+[07 Nov 2008 20:21:03 -0500] 70.194.231.28 ntsl942111 / [get document] about.html
+[07 Nov 2008 20:21:41 -0500] 70.194.231.28 ntsl942111 / [put document] virtual_dispensary2.html
+[07 Nov 2008 20:21:50 -0500] 70.194.231.28 ntsl942111 / [remove documents] virtual_dispensary.html
+[07 Nov 2008 20:21:56 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 20:21:57 -0500] 70.194.231.28 ntsl942111 / [move document] virtual_dispensary2.html
+[07 Nov 2008 20:39:27 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 20:39:28 -0500] 70.194.231.28 ntsl942111 / [create url-directories] -
+[07 Nov 2008 20:39:42 -0500] 70.194.231.28 ntsl942111 / [move document] New_Folder
+[07 Nov 2008 20:39:47 -0500] 70.194.231.28 ntsl942111 / [move document] Forms
+[07 Nov 2008 20:39:57 -0500] 70.194.231.28 ntsl942111 / [move document] Forms
+[07 Nov 2008 20:40:04 -0500] 70.194.231.28 ntsl942111 / [remove documents] Forms
+[07 Nov 2008 20:40:07 -0500] 70.194.231.28 ntsl942111 / [create url-directories] -
+[07 Nov 2008 20:40:11 -0500] 70.194.231.28 ntsl942111 / [move document] New_Folder
+[07 Nov 2008 20:40:13 -0500] 70.194.231.28 ntsl942111 / [create url-directories] -
+[07 Nov 2008 20:40:17 -0500] 70.194.231.28 ntsl942111 / [move document] New_Folder
+[07 Nov 2008 21:07:47 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 21:07:48 -0500] 70.194.231.28 ntsl942111 / [put document] forms/web.config
+[07 Nov 2008 21:08:04 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 21:08:05 -0500] 70.194.231.28 ntsl942111 / [put document] forms/login.aspx
+[07 Nov 2008 21:08:37 -0500] 70.194.231.28 ntsl942111 / [move document] main4.html
+[07 Nov 2008 21:08:44 -0500] 70.194.231.28 ntsl942111 / [remove documents] forms/main4.html
+[07 Nov 2008 21:09:12 -0500] 70.194.231.28 ntsl942111 / [move document] forms.html
+[07 Nov 2008 21:09:23 -0500] 70.194.231.28 ntsl942111 / [getDocsMetaInfo] -
+[07 Nov 2008 21:09:24 -0500] 70.194.231.28 ntsl942111 / [move document] forms/forms.html
+[07 Nov 2008 21:09:28 -0500] 70.194.231.28 ntsl942111 / [get document] forms/login.aspx
+[07 Nov 2008 21:10:45 -0500] 70.194.231.28 ntsl942111 / [put document] forms/login.aspx
+[07 Nov 2008 21:10:53 -0500] 70.194.231.28 ntsl942111 / [get document] forms/web.config
+[07 Nov 2008 21:12:25 -0500] 70.194.231.28 ntsl942111 / [put document] forms/web.config
+[07 Nov 2008 21:14:00 -0500] 70.194.231.28 ntsl942111 / [put document] forms/web.config
+[07 Nov 2008 21:17:45 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 21:20:40 -0500] 70.194.231.28 1470635-1580998 / [query access setup] -
+[07 Nov 2008 21:20:40 -0500] 70.194.231.28 ntsl942111 / [query access setup] -
+[07 Nov 2008 21:20:41 -0500] 70.194.231.28 ntsl942111 / [list special access] All
+[07 Nov 2008 21:41:29 -0500] 70.194.231.28 ntsl942111 / [list documents] -
+[07 Nov 2008 21:49:47 -0500] 70.194.231.28 ntsl942111 / [put document] forms/.htaccess.dir.htm
+[07 Nov 2008 21:55:58 -0500] 70.194.231.28 ntsl942111 / [put document] forms/.htaccess.htm
+[07 Nov 2008 21:56:42 -0500] 70.194.231.28 ntsl942111 / [put document] forms/forms.htaccess.htm
+[07 Nov 2008 21:58:33 -0500] 70.194.231.28 ntsl942111 / [put document] forms/style.css
+[07 Nov 2008 21:58:33 -0500] 70.194.231.28 ntsl942111 / [put document] forms/new_page_1.htm
+[07 Nov 2008 21:58:47 -0500] 70.194.231.28 ntsl942111 / [get document] forms/web.config
+[08 Nov 2008 09:29:19 -0500] 75.207.119.119 1470635-1580998 - [server version] -
+[08 Nov 2008 09:29:20 -0500] 75.207.119.119 1470635-1580998 - [url to web url] -
+[08 Nov 2008 09:29:21 -0500] 75.207.119.119 1470635-1580998 / [open service] -
+[08 Nov 2008 09:29:34 -0500] 75.207.119.119 ntsl942111 / [open service] -
+[08 Nov 2008 09:29:37 -0500] 75.207.119.119 ntsl942111 / [get document] main4.html
+[08 Nov 2008 09:30:11 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 09:32:01 -0500] 75.207.119.119 ntsl942111 / [get document] forms.html
+[08 Nov 2008 09:32:02 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 09:36:48 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 09:38:55 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 09:39:56 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 09:39:57 -0500] 75.207.119.119 ntsl942111 / [put document] images/spacer.gif
+[08 Nov 2008 09:39:58 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 09:39:58 -0500] 75.207.119.119 ntsl942111 / [setDocsMetaInfo] -
+[08 Nov 2008 09:43:50 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 09:50:41 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 09:50:42 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 09:50:48 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 09:50:59 -0500] 75.207.119.119 ntsl942111 / [get web struct] -
+[08 Nov 2008 09:51:01 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/style.css
+[08 Nov 2008 09:51:06 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/new_page_1.htm
+[08 Nov 2008 09:51:11 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/forms.htaccess.htm
+[08 Nov 2008 09:51:21 -0500] 75.207.119.119 ntsl942111 / [get document] forms/login.aspx
+[08 Nov 2008 09:52:59 -0500] 75.207.119.119 ntsl942111 / [put document] forms/login.aspx
+[08 Nov 2008 09:53:03 -0500] 75.207.119.119 ntsl942111 / [get document] forms/web.config
+[08 Nov 2008 09:54:58 -0500] 75.207.119.119 ntsl942111 / [put document] forms/web.config
+[08 Nov 2008 09:55:58 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 09:56:44 -0500] 75.207.119.119 ntsl942111 / [put document] forms/login.aspx
+[08 Nov 2008 10:03:45 -0500] 75.207.119.119 ntsl942111 / [get document] forms/login.aspx
+[08 Nov 2008 10:21:23 -0500] 75.207.119.119 ntsl942111 / [move document] forms
+[08 Nov 2008 10:21:25 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:35:01 -0500] 75.207.119.119 ntsl942111 / [put document] documents/web.config
+[08 Nov 2008 10:35:41 -0500] 75.207.119.119 ntsl942111 / [put document] documents/login.aspx
+[08 Nov 2008 10:36:20 -0500] 75.207.119.119 ntsl942111 / [put document] documents/web.config
+[08 Nov 2008 10:37:37 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 10:43:39 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 10:45:37 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:45:47 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:45:50 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:45:57 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:45:59 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:46:01 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:48:33 -0500] 75.207.119.119 ntsl942111 / [get document] documents/index.html
+[08 Nov 2008 10:48:44 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:49:17 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:49:45 -0500] 75.207.119.119 ntsl942111 / [get document] documents/login.aspx
+[08 Nov 2008 10:49:48 -0500] 75.207.119.119 ntsl942111 / [get document] documents/web.config
+[08 Nov 2008 10:50:46 -0500] 75.207.119.119 ntsl942111 / [put document] documents/login.aspx
+[08 Nov 2008 10:51:46 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 10:57:54 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 10:58:05 -0500] 75.207.119.119 ntsl942111 / [create url-directories] -
+[08 Nov 2008 10:58:05 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 10:58:10 -0500] 75.207.119.119 ntsl942111 / [put documents] -
+[08 Nov 2008 10:58:10 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 10:58:11 -0500] 75.207.119.119 ntsl942111 / [setDocsMetaInfo] -
+[08 Nov 2008 10:59:53 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 10:59:55 -0500] 75.207.119.119 ntsl942111 / [put document] web_based_training.html
+[08 Nov 2008 10:59:56 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 10:59:57 -0500] 75.207.119.119 ntsl942111 / [setDocsMetaInfo] -
+[08 Nov 2008 11:01:08 -0500] 75.207.119.119 ntsl942111 / [remove documents] web_based_training.html
+[08 Nov 2008 11:01:11 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 11:01:38 -0500] 75.207.119.119 ntsl942111 / [remove documents] Web_Based_Training
+[08 Nov 2008 11:26:40 -0500] 75.207.119.119 ntsl942111 / [move document] documents
+[08 Nov 2008 11:26:50 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/login.aspx
+[08 Nov 2008 11:26:53 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/web.config
+[08 Nov 2008 11:47:54 -0500] 75.207.119.119 ntsl942111 / [get document] forms/index.html
+[08 Nov 2008 11:47:56 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 11:49:52 -0500] 75.207.119.119 ntsl942111 / [put document] forms/index.html
+[08 Nov 2008 12:07:23 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:08:18 -0500] 75.207.119.119 ntsl942111 / [put document] password_protect.php.txt
+[08 Nov 2008 12:08:19 -0500] 75.207.119.119 ntsl942111 / [get document] password_protect.php.txt
+[08 Nov 2008 12:08:52 -0500] 75.207.119.119 ntsl942111 / [put document] password_protect.php
+[08 Nov 2008 12:17:07 -0500] 75.207.119.119 ntsl942111 / [put document] password_protect.php
+[08 Nov 2008 12:17:39 -0500] 75.207.119.119 ntsl942111 / [remove documents] password_protect.php.txt
+[08 Nov 2008 12:17:46 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:25:48 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htaccess
+[08 Nov 2008 12:30:29 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htpasswd
+[08 Nov 2008 12:31:58 -0500] 75.207.119.119 ntsl942111 / [get document] forms/forms.htaccess
+[08 Nov 2008 12:33:57 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:34:01 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:34:03 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:34:05 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:34:21 -0500] 75.207.119.119 ntsl942111 / [get document] _private/form_results.csv
+[08 Nov 2008 12:35:49 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htpasswd
+[08 Nov 2008 12:35:55 -0500] 75.207.119.119 ntsl942111 / [get document] forms/forms.htaccess
+[08 Nov 2008 12:38:31 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htaccess
+[08 Nov 2008 12:38:33 -0500] 75.207.119.119 ntsl942111 / [get document] forms/forms.htaccess
+[08 Nov 2008 12:42:19 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:42:20 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/forms.htaccess
+[08 Nov 2008 12:42:24 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/forms.htpasswd
+[08 Nov 2008 12:52:14 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 12:52:36 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htaccess
+[08 Nov 2008 12:52:49 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htaccess
+[08 Nov 2008 12:55:10 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htpasswd
+[08 Nov 2008 12:56:38 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htaccess
+[08 Nov 2008 12:56:49 -0500] 75.207.119.119 1470635-1580998 - [url to web url] -
+[08 Nov 2008 12:56:49 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 12:56:51 -0500] 75.207.119.119 ntsl942111 / [create url-directories] -
+[08 Nov 2008 12:56:55 -0500] 75.207.119.119 1470635-1580998 - [url to web url] -
+[08 Nov 2008 12:56:56 -0500] 75.207.119.119 ntsl942111 / [move document] New Folder
+[08 Nov 2008 12:57:01 -0500] 75.207.119.119 ntsl942111 / [put document] directory/forms.htpasswd
+[08 Nov 2008 12:57:15 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/forms.htpasswd
+[08 Nov 2008 12:58:29 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htaccess
+[08 Nov 2008 12:59:23 -0500] 75.207.119.119 ntsl942111 / [get document] forms/forms.htaccess
+[08 Nov 2008 12:59:48 -0500] 75.207.119.119 ntsl942111 / [get document] directory/forms.htpasswd
+[08 Nov 2008 13:00:36 -0500] 75.207.119.119 ntsl942111 / [get document] forms.html
+[08 Nov 2008 13:00:37 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 13:02:56 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 13:39:49 -0500] 75.207.119.119 ntsl942111 / [get document] forms/forms.htaccess
+[08 Nov 2008 13:41:19 -0500] 75.207.119.119 ntsl942111 / [put document] forms/forms.htaccess
+[08 Nov 2008 13:51:07 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 13:51:31 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 13:51:59 -0500] 75.207.119.119 ntsl942111 / [put document] directory/passwordprotect.asp
+[08 Nov 2008 13:53:30 -0500] 75.207.119.119 ntsl942111 / [put document] directory/logon.asp
+[08 Nov 2008 13:54:30 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 13:54:46 -0500] 75.207.119.119 ntsl942111 / [put document] _private/logon.inc
+[08 Nov 2008 13:54:48 -0500] 75.207.119.119 ntsl942111 / [get document] _private/logon.inc
+[08 Nov 2008 14:00:24 -0500] 75.207.119.119 ntsl942111 / [put document] directory/logon.asp
+[08 Nov 2008 14:02:13 -0500] 75.207.119.119 ntsl942111 / [remove documents] directory
+[08 Nov 2008 14:02:18 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 14:02:27 -0500] 75.207.119.119 ntsl942111 / [remove documents] password_protect.php
+[08 Nov 2008 14:02:33 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/forms.htaccess
+[08 Nov 2008 14:02:44 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 14:41:30 -0500] 75.207.119.119 1470635-1580998 - [server version] -
+[08 Nov 2008 14:41:30 -0500] 75.207.119.119 1470635-1580998 - [url to web url] -
+[08 Nov 2008 14:41:31 -0500] 75.207.119.119 1470635-1580998 / [open service] -
+[08 Nov 2008 14:41:55 -0500] 75.207.119.119 ntsl942111 / [open service] -
+[08 Nov 2008 14:41:55 -0500] 75.207.119.119 ntsl942111 / [get document] forms.html
+[08 Nov 2008 14:41:57 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 14:41:58 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 14:45:42 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 14:50:30 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 14:50:30 -0500] 75.207.119.119 ntsl942111 / [put document] forms/login.aspx
+[08 Nov 2008 14:50:31 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 14:50:42 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 14:50:43 -0500] 75.207.119.119 ntsl942111 / [put document] forms/web.config
+[08 Nov 2008 14:56:28 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 14:56:46 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 14:56:52 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 14:56:59 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 14:56:59 -0500] 75.207.119.119 ntsl942111 / [put document] _private/login.aspx
+[08 Nov 2008 14:57:06 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 14:57:12 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 14:57:12 -0500] 75.207.119.119 ntsl942111 / [move document] _private/login.aspx
+[08 Nov 2008 14:57:16 -0500] 75.207.119.119 ntsl942111 / [move document] _private/login2.aspx
+[08 Nov 2008 14:57:21 -0500] 75.207.119.119 ntsl942111 / [get web struct] -
+[08 Nov 2008 14:57:22 -0500] 75.207.119.119 ntsl942111 / [remove documents] _private/logon.inc
+[08 Nov 2008 14:57:42 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 14:57:43 -0500] 75.207.119.119 ntsl942111 / [put document] _private/web.config
+[08 Nov 2008 14:57:51 -0500] 75.207.119.119 ntsl942111 / [getDocsMetaInfo] -
+[08 Nov 2008 14:57:51 -0500] 75.207.119.119 ntsl942111 / [move document] _private/web.config
+[08 Nov 2008 14:57:55 -0500] 75.207.119.119 ntsl942111 / [move document] _private/web2.config
+[08 Nov 2008 14:58:08 -0500] 75.207.119.119 ntsl942111 / [get document] forms/login.aspx
+[08 Nov 2008 14:58:09 -0500] 75.207.119.119 ntsl942111 / [get document] forms/login2.aspx
+[08 Nov 2008 15:04:34 -0500] 75.207.119.119 ntsl942111 / [put document] forms/login.aspx
+[08 Nov 2008 15:04:44 -0500] 75.207.119.119 ntsl942111 / [put document] forms/login2.aspx
+[08 Nov 2008 15:04:46 -0500] 75.207.119.119 ntsl942111 / [get document] forms/web.config
+[08 Nov 2008 15:04:47 -0500] 75.207.119.119 ntsl942111 / [get document] forms/web2.config
+[08 Nov 2008 15:08:12 -0500] 75.207.119.119 ntsl942111 / [put document] forms/web.config
+[08 Nov 2008 15:38:08 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 15:38:18 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms.html
+[08 Nov 2008 15:38:29 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 15:38:38 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/login.aspx
+[08 Nov 2008 15:38:40 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/login2.aspx
+[08 Nov 2008 15:38:43 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/web.config
+[08 Nov 2008 15:38:49 -0500] 75.207.119.119 ntsl942111 / [remove documents] forms/web2.config
+[08 Nov 2008 15:39:02 -0500] 75.207.119.119 ntsl942111 / [get document] about.html
+[08 Nov 2008 15:39:03 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 15:39:55 -0500] 75.207.119.119 ntsl942111 / [put document] about.html
+[08 Nov 2008 15:40:40 -0500] 75.207.119.119 ntsl942111 / [get document] about.html
+[08 Nov 2008 15:40:41 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 15:42:13 -0500] 75.207.119.119 ntsl942111 / [put document] about.html
+[08 Nov 2008 15:43:37 -0500] 75.207.119.119 ntsl942111 / [get document] biomeridian.html
+[08 Nov 2008 15:43:38 -0500] 75.207.119.119 ntsl942111 / [get document] bio.htm
+[08 Nov 2008 15:46:17 -0500] 75.207.119.119 ntsl942111 / [put document] biomeridian.html
+[08 Nov 2008 15:46:32 -0500] 75.207.119.119 ntsl942111 / [get document] bios.html
+[08 Nov 2008 15:46:33 -0500] 75.207.119.119 ntsl942111 / [get document] bios.htm
+[08 Nov 2008 15:46:34 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 15:46:35 -0500] 75.207.119.119 ntsl942111 / [get document] contact.html
+[08 Nov 2008 15:46:45 -0500] 75.207.119.119 ntsl942111 / [get document] naturopathic_medicine.html
+[08 Nov 2008 15:46:46 -0500] 75.207.119.119 ntsl942111 / [get document] naturopathic.htm
+[08 Nov 2008 15:46:47 -0500] 75.207.119.119 ntsl942111 / [get document] office.html
+[08 Nov 2008 15:46:48 -0500] 75.207.119.119 ntsl942111 / [get document] office.htm
+[08 Nov 2008 15:46:50 -0500] 75.207.119.119 ntsl942111 / [get document] services.html
+[08 Nov 2008 15:46:51 -0500] 75.207.119.119 ntsl942111 / [get document] services.htm
+[08 Nov 2008 15:46:55 -0500] 75.207.119.119 ntsl942111 / [get document] virtual_dispensary.html
+[08 Nov 2008 15:47:12 -0500] 75.207.119.119 ntsl942111 / [put document] virtual_dispensary.html
+[08 Nov 2008 15:47:28 -0500] 75.207.119.119 ntsl942111 / [put document] services.html
+[08 Nov 2008 15:47:42 -0500] 75.207.119.119 ntsl942111 / [put document] office.html
+[08 Nov 2008 15:48:02 -0500] 75.207.119.119 ntsl942111 / [put document] naturopathic_medicine.html
+[08 Nov 2008 15:48:21 -0500] 75.207.119.119 ntsl942111 / [put document] contact.html
+[08 Nov 2008 15:48:40 -0500] 75.207.119.119 ntsl942111 / [put document] bios.html
+[08 Nov 2008 15:52:00 -0500] 75.207.119.119 ntsl942111 / [get document] forms/index.html
+[08 Nov 2008 15:52:01 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 15:59:09 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 15:59:20 -0500] 75.207.119.119 ntsl942111 / [get document] forms/index.html
+[08 Nov 2008 15:59:32 -0500] 75.207.119.119 ntsl942111 / [put document] forms/index.html
+[08 Nov 2008 15:59:40 -0500] 75.207.119.119 ntsl942111 / [get document] forms.html
+[08 Nov 2008 15:59:41 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 16:05:42 -0500] 75.207.119.119 ntsl942111 / [put document] forms.html
+[08 Nov 2008 16:06:07 -0500] 75.207.119.119 ntsl942111 / [get document] about.html
+[08 Nov 2008 16:06:31 -0500] 75.207.119.119 ntsl942111 / [put document] about.html
+[08 Nov 2008 16:06:37 -0500] 75.207.119.119 ntsl942111 / [put document] about.html
+[08 Nov 2008 16:07:12 -0500] 75.207.119.119 ntsl942111 / [get document] biomeridian.html
+[08 Nov 2008 16:07:13 -0500] 75.207.119.119 ntsl942111 / [get document] bio.htm
+[08 Nov 2008 16:07:55 -0500] 75.207.119.119 ntsl942111 / [put document] biomeridian.html
+[08 Nov 2008 16:08:00 -0500] 75.207.119.119 ntsl942111 / [get document] bios.html
+[08 Nov 2008 16:08:01 -0500] 75.207.119.119 ntsl942111 / [get document] bios.htm
+[08 Nov 2008 16:08:02 -0500] 75.207.119.119 ntsl942111 / [get document] includes/footer.html
+[08 Nov 2008 16:08:02 -0500] 75.207.119.119 ntsl942111 / [get document] contact.html
+[08 Nov 2008 16:08:08 -0500] 75.207.119.119 ntsl942111 / [get document] naturopathic_medicine.html
+[08 Nov 2008 16:08:10 -0500] 75.207.119.119 ntsl942111 / [get document] naturopathic.htm
+[08 Nov 2008 16:08:11 -0500] 75.207.119.119 ntsl942111 / [get document] office.html
+[08 Nov 2008 16:08:12 -0500] 75.207.119.119 ntsl942111 / [get document] office.htm
+[08 Nov 2008 16:08:13 -0500] 75.207.119.119 ntsl942111 / [get document] services.html
+[08 Nov 2008 16:08:14 -0500] 75.207.119.119 ntsl942111 / [get document] services.htm
+[08 Nov 2008 16:08:15 -0500] 75.207.119.119 ntsl942111 / [get document] virtual_dispensary.html
+[08 Nov 2008 16:08:25 -0500] 75.207.119.119 ntsl942111 / [put document] virtual_dispensary.html
+[08 Nov 2008 16:08:36 -0500] 75.207.119.119 ntsl942111 / [put document] services.html
+[08 Nov 2008 16:08:38 -0500] 75.207.119.119 ntsl942111 / [get document] services.htm
+[08 Nov 2008 16:08:45 -0500] 75.207.119.119 ntsl942111 / [put document] office.html
+[08 Nov 2008 16:08:47 -0500] 75.207.119.119 ntsl942111 / [get document] office.htm
+[08 Nov 2008 16:08:54 -0500] 75.207.119.119 ntsl942111 / [put document] naturopathic_medicine.html
+[08 Nov 2008 16:08:56 -0500] 75.207.119.119 ntsl942111 / [get document] naturopathic.htm
+[08 Nov 2008 16:09:02 -0500] 75.207.119.119 ntsl942111 / [put document] contact.html
+[08 Nov 2008 16:09:12 -0500] 75.207.119.119 ntsl942111 / [put document] bios.html
+[08 Nov 2008 16:09:33 -0500] 75.207.119.119 ntsl942111 / [list documents] -
+[08 Nov 2008 16:10:46 -0500] 75.207.119.119 ntsl942111 / [put document] bios.htm
+[08 Nov 2008 16:10:47 -0500] 75.207.119.119 ntsl942111 / [put document] bios.html
+[12 Nov 2008 12:57:18 -0500] 75.204.89.209 1470635-1580998 - [server version] -
+[12 Nov 2008 12:57:18 -0500] 75.204.89.209 1470635-1580998 - [url to web url] -
+[12 Nov 2008 12:57:19 -0500] 75.204.89.209 1470635-1580998 / [open service] -
+[12 Nov 2008 12:57:36 -0500] 75.204.89.209 ntsl942111 / [open service] -
+[12 Nov 2008 12:57:38 -0500] 75.204.89.209 ntsl942111 / [get document] main4.html
+[12 Nov 2008 12:57:41 -0500] 75.204.89.209 ntsl942111 / [get document] includes/footer.html
+[12 Nov 2008 12:57:43 -0500] 75.204.89.209 ntsl942111 / [list documents] -
+[12 Nov 2008 12:58:03 -0500] 75.204.89.209 ntsl942111 / [get document] biomeridian.html
+[12 Nov 2008 12:58:05 -0500] 75.204.89.209 ntsl942111 / [get document] bio.htm
+[12 Nov 2008 12:58:06 -0500] 75.204.89.209 ntsl942111 / [get document] includes/footer.html
+[12 Nov 2008 13:00:16 -0500] 75.204.89.209 1470635-1580998 - [url to web url] -
+[12 Nov 2008 13:00:17 -0500] 75.204.89.209 ntsl942111 / [getDocsMetaInfo] -
+[12 Nov 2008 13:00:20 -0500] 75.204.89.209 ntsl942111 / [put document] bio.htm
+[12 Nov 2008 13:00:21 -0500] 75.204.89.209 1470635-1580998 - [url to web url] -
+[12 Nov 2008 13:00:21 -0500] 75.204.89.209 ntsl942111 / [getDocsMetaInfo] -
+[12 Nov 2008 13:00:22 -0500] 75.204.89.209 ntsl942111 / [getDocsMetaInfo] -
+[12 Nov 2008 13:00:22 -0500] 75.204.89.209 ntsl942111 / [getDocsMetaInfo] -
+[12 Nov 2008 13:00:23 -0500] 75.204.89.209 ntsl942111 / [getDocsMetaInfo] -
+[12 Nov 2008 13:00:29 -0500] 75.204.89.209 ntsl942111 / [put documents] -
+[12 Nov 2008 13:00:30 -0500] 75.204.89.209 1470635-1580998 - [url to web url] -
+[12 Nov 2008 13:00:30 -0500] 75.204.89.209 ntsl942111 / [remove documents] bio_files/image004.gif
+[12 Nov 2008 13:00:32 -0500] 75.204.89.209 ntsl942111 / [put document] biomeridian.html
+[12 Nov 2008 13:04:08 -0500] 75.204.89.209 ntsl942111 / [get document] forms.html
+[12 Nov 2008 13:04:22 -0500] 75.204.89.209 ntsl942111 / [list documents] -
+[12 Nov 2008 13:04:23 -0500] 75.204.89.209 ntsl942111 / [get document] forms/index.html
+[12 Nov 2008 13:05:34 -0500] 75.204.89.209 ntsl942111 / [put document] Disclosure.pdf
+[12 Nov 2008 13:05:42 -0500] 75.204.89.209 ntsl942111 / [put document] Disclosure.pdf
+[12 Nov 2008 13:08:33 -0500] 75.204.89.209 ntsl942111 / [put document] MetabolicTypingQuestionnaire.pdf
+[12 Nov 2008 13:08:52 -0500] 75.204.89.209 ntsl942111 / [put document] forms/index.html
+[12 Nov 2008 13:11:39 -0500] 75.204.89.209 ntsl942111 / [put document] forms/index.html
+[12 Nov 2008 13:11:48 -0500] 75.204.89.209 ntsl942111 / [put document] biomeridian.html
+[12 Nov 2008 13:46:22 -0500] 75.204.89.209 1470635-1580998 - [server version] -
+[12 Nov 2008 13:46:23 -0500] 75.204.89.209 1470635-1580998 - [url to web url] -
+[12 Nov 2008 13:46:23 -0500] 75.204.89.209 1470635-1580998 / [open service] -
+[12 Nov 2008 13:46:42 -0500] 75.204.89.209 ntsl942111 / [open service] -
+[12 Nov 2008 13:46:43 -0500] 75.204.89.209 ntsl942111 / [get document] main4.html
+[12 Nov 2008 13:46:46 -0500] 75.204.89.209 ntsl942111 / [get document] includes/footer.html
+[12 Nov 2008 13:46:47 -0500] 75.204.89.209 ntsl942111 / [list documents] -
+[12 Nov 2008 13:47:28 -0500] 75.204.89.209 ntsl942111 / [list documents] -
+[13 Nov 2008 15:10:32 -0500] 75.207.12.222 1470635-1580998 - [server version] -
+[13 Nov 2008 15:10:33 -0500] 75.207.12.222 1470635-1580998 - [url to web url] -
+[13 Nov 2008 15:10:34 -0500] 75.207.12.222 1470635-1580998 / [open service] -
+[13 Nov 2008 15:10:59 -0500] 75.207.12.222 ntsl942111 / [open service] -
+[13 Nov 2008 15:11:01 -0500] 75.207.12.222 ntsl942111 / [get document] main4.html
+[13 Nov 2008 15:11:04 -0500] 75.207.12.222 ntsl942111 / [get document] includes/footer.html
+[13 Nov 2008 15:11:05 -0500] 75.207.12.222 ntsl942111 / [list documents] -
+[13 Nov 2008 15:11:26 -0500] 75.207.12.222 ntsl942111 / [get document] services.html
+[13 Nov 2008 15:11:27 -0500] 75.207.12.222 ntsl942111 / [get document] services.htm
+[13 Nov 2008 15:11:28 -0500] 75.207.12.222 ntsl942111 / [get document] includes/footer.html
+[13 Nov 2008 15:13:30 -0500] 75.207.12.222 ntsl942111 / [put document] services.htm
+[13 Nov 2008 15:13:32 -0500] 75.207.12.222 ntsl942111 / [put document] services.html
+[13 Nov 2008 15:14:21 -0500] 75.207.12.222 ntsl942111 / [list documents] -
+[13 Nov 2008 15:14:22 -0500] 75.207.12.222 ntsl942111 / [get document] forms/index.html
+[13 Nov 2008 15:14:24 -0500] 75.207.12.222 ntsl942111 / [get document] includes/footer.html
+[13 Nov 2008 15:15:12 -0500] 75.207.12.222 ntsl942111 / [put document] SymptomSurveyForm.pdf
+[13 Nov 2008 15:15:26 -0500] 75.207.12.222 ntsl942111 / [put document] forms/index.html
+[13 Nov 2008 15:15:44 -0500] 75.207.12.222 ntsl942111 / [get document] forms/index.html
+[13 Nov 2008 15:15:46 -0500] 75.207.12.222 ntsl942111 / [get document] includes/footer.html
+[13 Nov 2008 15:23:20 -0500] 75.207.12.222 ntsl942111 / [get document] services.html
+[13 Nov 2008 15:23:21 -0500] 75.207.12.222 ntsl942111 / [get document] services.htm
+[13 Nov 2008 15:23:41 -0500] 75.207.12.222 ntsl942111 / [put document] testimonials.html
+[13 Nov 2008 15:23:58 -0500] 75.207.12.222 ntsl942111 / [get document] testimonials.htm
+[13 Nov 2008 15:24:03 -0500] 75.207.12.222 ntsl942111 / [get document] services.htm
+[13 Nov 2008 15:24:16 -0500] 75.207.12.222 ntsl942111 / [put document] testimonials.htm
+[13 Nov 2008 15:37:12 -0500] 75.207.12.222 ntsl942111 / [put document] testimonials.htm
+[13 Nov 2008 15:38:24 -0500] 75.207.12.222 ntsl942111 / [put document] testimonials.html
+[13 Nov 2008 15:39:01 -0500] 75.207.12.222 ntsl942111 / [get document] testimonials.htm
+[13 Nov 2008 15:39:05 -0500] 75.207.12.222 ntsl942111 / [get document] services.htm
+[13 Nov 2008 15:39:14 -0500] 75.207.12.222 ntsl942111 / [get document] office.htm
+[13 Nov 2008 15:39:29 -0500] 75.207.12.222 ntsl942111 / [get document] bios.htm
+[13 Nov 2008 15:40:23 -0500] 75.207.12.222 ntsl942111 / [put document] testimonials.htm
+[13 Nov 2008 20:15:36 -0500] 75.207.12.222 1470635-1580998 - [server version] -
+[13 Nov 2008 20:15:36 -0500] 75.207.12.222 1470635-1580998 - [url to web url] -
+[13 Nov 2008 20:15:37 -0500] 75.207.12.222 1470635-1580998 / [open service] -
+[13 Nov 2008 20:16:14 -0500] 75.207.12.222 ntsl942111 / [open service] -
+[13 Nov 2008 20:16:14 -0500] 75.207.12.222 ntsl942111 / [get document] main4.html
+[13 Nov 2008 20:16:17 -0500] 75.207.12.222 ntsl942111 / [get document] includes/footer.html
+[13 Nov 2008 20:16:18 -0500] 75.207.12.222 ntsl942111 / [list documents] -
+[13 Nov 2008 20:18:29 -0500] 75.207.12.222 ntsl942111 / [list documents] -
+[13 Nov 2008 20:18:31 -0500] 75.207.12.222 ntsl942111 / [get document] forms/index.html
+[13 Nov 2008 20:18:32 -0500] 75.207.12.222 ntsl942111 / [get document] includes/footer.html
+[13 Nov 2008 20:20:52 -0500] 75.207.12.222 ntsl942111 / [put document] PatienthHistory.pdf
+[13 Nov 2008 20:21:29 -0500] 75.207.12.222 ntsl942111 / [getDocsMetaInfo] -
+[13 Nov 2008 20:21:29 -0500] 75.207.12.222 ntsl942111 / [move document] PatienthHistory.pdf
+[13 Nov 2008 20:21:31 -0500] 75.207.12.222 ntsl942111 / [move document] PatienthHistory.pdf
+[13 Nov 2008 20:21:47 -0500] 75.207.12.222 ntsl942111 / [put document] forms/index.html
+[13 Nov 2008 20:24:39 -0500] 75.207.12.222 ntsl942111 / [get document] main4.html
+[13 Nov 2008 20:24:40 -0500] 75.207.12.222 ntsl942111 / [get document] includes/footer.html
+[14 Nov 2008 20:27:17 -0500] 75.206.181.42 1470635-1580998 - [server version] -
+[14 Nov 2008 20:27:17 -0500] 75.206.181.42 1470635-1580998 - [url to web url] -
+[14 Nov 2008 20:27:18 -0500] 75.206.181.42 1470635-1580998 / [open service] -
+[14 Nov 2008 20:29:03 -0500] 75.206.181.42 ntsl942111 / [open service] -
+[14 Nov 2008 20:29:04 -0500] 75.206.181.42 ntsl942111 / [get document] main4.html
+[14 Nov 2008 20:29:08 -0500] 75.206.181.42 ntsl942111 / [get document] includes/footer.html
+[14 Nov 2008 20:29:08 -0500] 75.206.181.42 ntsl942111 / [list documents] -
+[14 Nov 2008 20:29:29 -0500] 75.206.181.42 ntsl942111 / [put document] images/home1.jpg
+[14 Nov 2008 20:29:57 -0500] 75.206.181.42 ntsl942111 / [list documents] -
+[14 Nov 2008 20:31:25 -0500] 75.206.181.42 ntsl942111 / [put document] main4.html
+[14 Nov 2008 20:40:50 -0500] 75.206.181.42 1470635-1580998 - [server version] -
+[14 Nov 2008 20:40:50 -0500] 75.206.181.42 1470635-1580998 - [url to web url] -
+[14 Nov 2008 20:40:51 -0500] 75.206.181.42 1470635-1580998 / [open service] -
+[14 Nov 2008 20:41:07 -0500] 75.206.181.42 ntsl942111 / [open service] -
+[14 Nov 2008 20:41:08 -0500] 75.206.181.42 ntsl942111 / [get document] main4.html
+[14 Nov 2008 20:41:12 -0500] 75.206.181.42 ntsl942111 / [get document] includes/footer.html
+[14 Nov 2008 20:41:18 -0500] 75.206.181.42 ntsl942111 / [list documents] -
+[14 Nov 2008 20:41:57 -0500] 75.206.181.42 ntsl942111 / [list documents] -
+[14 Nov 2008 20:45:45 -0500] 75.206.181.42 ntsl942111 / [put document] main4.html
+[14 Nov 2008 20:52:31 -0500] 75.206.181.42 ntsl942111 / [put document] main4.html
+[14 Nov 2008 20:53:52 -0500] 75.206.181.42 ntsl942111 / [put document] main4.html
+[14 Nov 2008 20:54:41 -0500] 75.206.181.42 ntsl942111 / [get document] testimonials.html
+[14 Nov 2008 20:54:42 -0500] 75.206.181.42 ntsl942111 / [get document] testimonials.htm
+[14 Nov 2008 20:55:06 -0500] 75.206.181.42 ntsl942111 / [put document] supplements.html
+[14 Nov 2008 20:56:55 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.htm
+[14 Nov 2008 20:57:02 -0500] 75.206.181.42 ntsl942111 / [get document] testimonials.htm
+[14 Nov 2008 20:57:13 -0500] 75.206.181.42 ntsl942111 / [put document] supplements.htm
+[14 Nov 2008 20:57:56 -0500] 75.206.181.42 ntsl942111 / [put document] supplements.htm
+[14 Nov 2008 21:00:06 -0500] 75.206.181.42 ntsl942111 / [put document] supplements.htm
+[14 Nov 2008 21:00:22 -0500] 75.206.181.42 ntsl942111 / [put document] supplements.html
+[14 Nov 2008 21:01:46 -0500] 75.206.181.42 ntsl942111 / [get document] payment.htm
+[14 Nov 2008 21:02:06 -0500] 75.206.181.42 ntsl942111 / [put document] payment.html
+[14 Nov 2008 21:02:13 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.htm
+[14 Nov 2008 21:02:23 -0500] 75.206.181.42 ntsl942111 / [put document] payment.htm
+[14 Nov 2008 21:02:30 -0500] 75.206.181.42 ntsl942111 / [put document] payment.html
+[14 Nov 2008 21:02:32 -0500] 75.206.181.42 ntsl942111 / [get document] payment.htm
+[14 Nov 2008 21:02:34 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.html
+[14 Nov 2008 21:02:35 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.htm
+[14 Nov 2008 21:02:39 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.htm
+[14 Nov 2008 21:03:32 -0500] 75.206.181.42 ntsl942111 / [put document] main4.html
+[14 Nov 2008 21:03:40 -0500] 75.206.181.42 ntsl942111 / [get document] about.html
+[14 Nov 2008 21:03:48 -0500] 75.206.181.42 ntsl942111 / [get document] biomeridian.html
+[14 Nov 2008 21:03:49 -0500] 75.206.181.42 ntsl942111 / [get document] bio.htm
+[14 Nov 2008 21:03:59 -0500] 75.206.181.42 ntsl942111 / [get document] bios.html
+[14 Nov 2008 21:04:00 -0500] 75.206.181.42 ntsl942111 / [get document] bios.htm
+[14 Nov 2008 21:04:06 -0500] 75.206.181.42 ntsl942111 / [get document] contact.html
+[14 Nov 2008 21:04:11 -0500] 75.206.181.42 ntsl942111 / [get document] forms.html
+[14 Nov 2008 21:04:15 -0500] 75.206.181.42 ntsl942111 / [get document] inside.html
+[14 Nov 2008 21:04:30 -0500] 75.206.181.42 ntsl942111 / [get document] naturopathic_medicine.html
+[14 Nov 2008 21:04:31 -0500] 75.206.181.42 ntsl942111 / [get document] naturopathic.htm
+[14 Nov 2008 21:04:36 -0500] 75.206.181.42 ntsl942111 / [get document] office.html
+[14 Nov 2008 21:04:37 -0500] 75.206.181.42 ntsl942111 / [get document] office.htm
+[14 Nov 2008 21:04:40 -0500] 75.206.181.42 ntsl942111 / [get document] services.html
+[14 Nov 2008 21:04:41 -0500] 75.206.181.42 ntsl942111 / [get document] services.htm
+[14 Nov 2008 21:04:45 -0500] 75.206.181.42 ntsl942111 / [get document] testimonials.html
+[14 Nov 2008 21:04:46 -0500] 75.206.181.42 ntsl942111 / [get document] testimonials.htm
+[14 Nov 2008 21:04:50 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.html
+[14 Nov 2008 21:04:51 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.htm
+[14 Nov 2008 21:04:53 -0500] 75.206.181.42 ntsl942111 / [get document] virtual_dispensary.html
+[14 Nov 2008 21:04:56 -0500] 75.206.181.42 ntsl942111 / [get document] payment.html
+[14 Nov 2008 21:04:58 -0500] 75.206.181.42 ntsl942111 / [get document] payment.htm
+[14 Nov 2008 21:11:12 -0500] 75.206.181.42 ntsl942111 / [put document] about.html
+[14 Nov 2008 21:11:36 -0500] 75.206.181.42 ntsl942111 / [put document] contact.html
+[14 Nov 2008 21:11:44 -0500] 75.206.181.42 ntsl942111 / [put document] forms.html
+[14 Nov 2008 21:11:58 -0500] 75.206.181.42 ntsl942111 / [put document] virtual_dispensary.html
+[14 Nov 2008 21:12:07 -0500] 75.206.181.42 ntsl942111 / [put document] payment.html
+[14 Nov 2008 21:12:09 -0500] 75.206.181.42 ntsl942111 / [get document] payment.htm
+[14 Nov 2008 21:12:12 -0500] 75.206.181.42 ntsl942111 / [put document] supplements.html
+[14 Nov 2008 21:12:14 -0500] 75.206.181.42 ntsl942111 / [get document] supplements.htm
+[14 Nov 2008 21:12:16 -0500] 75.206.181.42 ntsl942111 / [put document] testimonials.html
+[14 Nov 2008 21:12:18 -0500] 75.206.181.42 ntsl942111 / [get document] testimonials.htm
+[14 Nov 2008 21:12:20 -0500] 75.206.181.42 ntsl942111 / [put document] services.html
+[14 Nov 2008 21:12:22 -0500] 75.206.181.42 ntsl942111 / [get document] services.htm
+[14 Nov 2008 21:12:25 -0500] 75.206.181.42 ntsl942111 / [put document] office.html
+[14 Nov 2008 21:12:27 -0500] 75.206.181.42 ntsl942111 / [get document] office.htm
+[14 Nov 2008 21:12:29 -0500] 75.206.181.42 ntsl942111 / [put document] naturopathic_medicine.html
+[14 Nov 2008 21:12:32 -0500] 75.206.181.42 ntsl942111 / [get document] naturopathic.htm
+[14 Nov 2008 21:12:34 -0500] 75.206.181.42 ntsl942111 / [put document] bios.html
+[14 Nov 2008 21:12:36 -0500] 75.206.181.42 ntsl942111 / [get document] bios.htm
+[14 Nov 2008 21:12:40 -0500] 75.206.181.42 ntsl942111 / [put document] biomeridian.html
+[15 Nov 2008 14:11:08 -0500] 75.204.86.19 1470635-1580998 - [server version] -
+[15 Nov 2008 14:11:09 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 14:11:10 -0500] 75.204.86.19 1470635-1580998 / [open service] -
+[15 Nov 2008 14:12:39 -0500] 75.204.86.19 ntsl942111 / [open service] -
+[15 Nov 2008 14:12:42 -0500] 75.204.86.19 ntsl942111 / [get document] office.html
+[15 Nov 2008 14:12:44 -0500] 75.204.86.19 ntsl942111 / [get document] office.htm
+[15 Nov 2008 14:12:44 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 14:32:14 -0500] 75.204.86.19 ntsl942111 / [list documents] -
+[15 Nov 2008 14:37:47 -0500] 75.204.86.19 1470635-1580998 - [server version] -
+[15 Nov 2008 14:37:48 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 14:37:48 -0500] 75.204.86.19 1470635-1580998 / [open service] -
+[15 Nov 2008 14:37:55 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 14:37:55 -0500] 75.204.86.19 1470635-1580998 / [open service] -
+[15 Nov 2008 14:37:58 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 14:37:58 -0500] 75.204.86.19 1470635-1580998 / [open service] -
+[15 Nov 2008 14:41:59 -0500] 75.204.86.19 1470635-1580998 - [server version] -
+[15 Nov 2008 14:42:00 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 14:42:00 -0500] 75.204.86.19 1470635-1580998 / [open service] -
+[15 Nov 2008 15:16:43 -0500] 75.204.86.19 1470635-1580998 - [server version] -
+[15 Nov 2008 15:16:43 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 15:16:44 -0500] 75.204.86.19 1470635-1580998 / [open service] -
+[15 Nov 2008 15:16:54 -0500] 75.204.86.19 ntsl942111 / [open service] -
+[15 Nov 2008 15:16:54 -0500] 75.204.86.19 ntsl942111 / [get document] main4.html
+[15 Nov 2008 15:16:59 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:17:04 -0500] 75.204.86.19 ntsl942111 / [list documents] -
+[15 Nov 2008 15:18:06 -0500] 75.204.86.19 ntsl942111 / [put document] water.gif
+[15 Nov 2008 15:18:30 -0500] 75.204.86.19 ntsl942111 / [put document] main4.html
+[15 Nov 2008 15:22:07 -0500] 75.204.86.19 ntsl942111 / [put document] main4.html
+[15 Nov 2008 15:27:46 -0500] 75.204.86.19 ntsl942111 / [put document] water.gif
+[15 Nov 2008 15:28:05 -0500] 75.204.86.19 ntsl942111 / [put document] main4.html
+[15 Nov 2008 15:28:58 -0500] 75.204.86.19 ntsl942111 / [put document] main4.html
+[15 Nov 2008 15:31:37 -0500] 75.204.86.19 ntsl942111 / [get document] testimonials.htm
+[15 Nov 2008 15:36:12 -0500] 75.204.86.19 ntsl942111 / [put document] testimonials.htm
+[15 Nov 2008 15:36:37 -0500] 75.204.86.19 1470635-1580998 - [server version] -
+[15 Nov 2008 15:36:37 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 15:36:38 -0500] 75.204.86.19 1470635-1580998 / [open service] -
+[15 Nov 2008 15:38:01 -0500] 75.204.86.19 ntsl942111 / [open service] -
+[15 Nov 2008 15:38:01 -0500] 75.204.86.19 ntsl942111 / [get document] main4.html
+[15 Nov 2008 15:38:05 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:38:11 -0500] 75.204.86.19 ntsl942111 / [list documents] -
+[15 Nov 2008 15:38:55 -0500] 75.204.86.19 ntsl942111 / [put document] main4.html
+[15 Nov 2008 15:40:26 -0500] 75.204.86.19 ntsl942111 / [put document] main4.html
+[15 Nov 2008 15:40:50 -0500] 75.204.86.19 ntsl942111 / [get document] about.html
+[15 Nov 2008 15:40:52 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:40:55 -0500] 75.204.86.19 ntsl942111 / [get document] biomeridian.html
+[15 Nov 2008 15:40:56 -0500] 75.204.86.19 ntsl942111 / [get document] bio.htm
+[15 Nov 2008 15:41:43 -0500] 75.204.86.19 ntsl942111 / [get document] bios.html
+[15 Nov 2008 15:41:44 -0500] 75.204.86.19 ntsl942111 / [get document] bios.htm
+[15 Nov 2008 15:43:50 -0500] 75.204.86.19 ntsl942111 / [put document] about.html
+[15 Nov 2008 15:44:16 -0500] 75.204.86.19 ntsl942111 / [get document] contact.html
+[15 Nov 2008 15:44:17 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:44:33 -0500] 75.204.86.19 ntsl942111 / [put document] contact.html
+[15 Nov 2008 15:44:37 -0500] 75.204.86.19 ntsl942111 / [get document] forms.html
+[15 Nov 2008 15:44:38 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:44:48 -0500] 75.204.86.19 ntsl942111 / [get document] naturopathic_medicine.html
+[15 Nov 2008 15:44:49 -0500] 75.204.86.19 ntsl942111 / [get document] naturopathic.htm
+[15 Nov 2008 15:44:50 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:44:51 -0500] 75.204.86.19 ntsl942111 / [get document] office.html
+[15 Nov 2008 15:44:53 -0500] 75.204.86.19 ntsl942111 / [get document] office.htm
+[15 Nov 2008 15:44:54 -0500] 75.204.86.19 ntsl942111 / [get document] payment.html
+[15 Nov 2008 15:44:55 -0500] 75.204.86.19 ntsl942111 / [get document] payment.htm
+[15 Nov 2008 15:44:56 -0500] 75.204.86.19 ntsl942111 / [get document] services.html
+[15 Nov 2008 15:44:57 -0500] 75.204.86.19 ntsl942111 / [get document] services.htm
+[15 Nov 2008 15:44:58 -0500] 75.204.86.19 ntsl942111 / [get document] supplements.html
+[15 Nov 2008 15:44:59 -0500] 75.204.86.19 ntsl942111 / [get document] supplements.htm
+[15 Nov 2008 15:45:02 -0500] 75.204.86.19 ntsl942111 / [get document] testimonials.html
+[15 Nov 2008 15:45:03 -0500] 75.204.86.19 ntsl942111 / [get document] testimonials.htm
+[15 Nov 2008 15:45:04 -0500] 75.204.86.19 ntsl942111 / [get document] virtual_dispensary.html
+[15 Nov 2008 15:45:07 -0500] 75.204.86.19 ntsl942111 / [list documents] -
+[15 Nov 2008 15:45:08 -0500] 75.204.86.19 ntsl942111 / [get document] forms/index.html
+[15 Nov 2008 15:45:43 -0500] 75.204.86.19 ntsl942111 / [put document] virtual_dispensary.html
+[15 Nov 2008 15:46:14 -0500] 75.204.86.19 ntsl942111 / [put document] services.htm
+[15 Nov 2008 15:46:31 -0500] 75.204.86.19 ntsl942111 / [put document] payment.htm
+[15 Nov 2008 15:46:47 -0500] 75.204.86.19 ntsl942111 / [put document] office.htm
+[15 Nov 2008 15:47:02 -0500] 75.204.86.19 ntsl942111 / [put document] naturopathic.htm
+[15 Nov 2008 15:47:11 -0500] 75.204.86.19 ntsl942111 / [get document] forms/index.html
+[15 Nov 2008 15:47:12 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:47:22 -0500] 75.204.86.19 ntsl942111 / [get document] about.html
+[15 Nov 2008 15:47:23 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:47:27 -0500] 75.204.86.19 ntsl942111 / [get document] biomeridian.html
+[15 Nov 2008 15:47:28 -0500] 75.204.86.19 ntsl942111 / [get document] bio.htm
+[15 Nov 2008 15:47:29 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:50:10 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 15:50:10 -0500] 75.204.86.19 ntsl942111 / [getDocsMetaInfo] -
+[15 Nov 2008 15:50:15 -0500] 75.204.86.19 ntsl942111 / [put document] bio.htm
+[15 Nov 2008 15:50:16 -0500] 75.204.86.19 1470635-1580998 - [url to web url] -
+[15 Nov 2008 15:50:17 -0500] 75.204.86.19 ntsl942111 / [getDocsMetaInfo] -
+[15 Nov 2008 15:50:17 -0500] 75.204.86.19 ntsl942111 / [getDocsMetaInfo] -
+[15 Nov 2008 15:50:18 -0500] 75.204.86.19 ntsl942111 / [getDocsMetaInfo] -
+[15 Nov 2008 15:50:19 -0500] 75.204.86.19 ntsl942111 / [getDocsMetaInfo] -
+[15 Nov 2008 15:50:30 -0500] 75.204.86.19 ntsl942111 / [put documents] -
+[15 Nov 2008 15:51:19 -0500] 75.204.86.19 ntsl942111 / [get document] bios.html
+[15 Nov 2008 15:51:20 -0500] 75.204.86.19 ntsl942111 / [get document] bios.htm
+[15 Nov 2008 15:51:22 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:51:49 -0500] 75.204.86.19 ntsl942111 / [put document] bios.htm
+[15 Nov 2008 15:51:53 -0500] 75.204.86.19 ntsl942111 / [get document] biomeridian.html
+[15 Nov 2008 15:51:54 -0500] 75.204.86.19 ntsl942111 / [get document] bio.htm
+[15 Nov 2008 15:51:55 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:52:06 -0500] 75.204.86.19 ntsl942111 / [get document] contact.html
+[15 Nov 2008 15:52:07 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:52:12 -0500] 75.204.86.19 ntsl942111 / [get document] forms.html
+[15 Nov 2008 15:52:13 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:52:28 -0500] 75.204.86.19 ntsl942111 / [get document] naturopathic_medicine.html
+[15 Nov 2008 15:52:29 -0500] 75.204.86.19 ntsl942111 / [get document] naturopathic.htm
+[15 Nov 2008 15:52:30 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:52:36 -0500] 75.204.86.19 ntsl942111 / [get document] office.html
+[15 Nov 2008 15:52:37 -0500] 75.204.86.19 ntsl942111 / [get document] office.htm
+[15 Nov 2008 15:52:38 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:52:44 -0500] 75.204.86.19 ntsl942111 / [get document] payment.html
+[15 Nov 2008 15:52:45 -0500] 75.204.86.19 ntsl942111 / [get document] payment.htm
+[15 Nov 2008 15:52:46 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:52:51 -0500] 75.204.86.19 ntsl942111 / [get document] services.html
+[15 Nov 2008 15:52:52 -0500] 75.204.86.19 ntsl942111 / [get document] services.htm
+[15 Nov 2008 15:52:53 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:52:59 -0500] 75.204.86.19 ntsl942111 / [get document] supplements.html
+[15 Nov 2008 15:53:00 -0500] 75.204.86.19 ntsl942111 / [get document] supplements.htm
+[15 Nov 2008 15:53:01 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:53:10 -0500] 75.204.86.19 ntsl942111 / [put document] supplements.htm
+[15 Nov 2008 15:53:15 -0500] 75.204.86.19 ntsl942111 / [get document] testimonials.html
+[15 Nov 2008 15:53:16 -0500] 75.204.86.19 ntsl942111 / [get document] testimonials.htm
+[15 Nov 2008 15:53:17 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:53:26 -0500] 75.204.86.19 ntsl942111 / [put document] testimonials.htm
+[15 Nov 2008 15:53:30 -0500] 75.204.86.19 ntsl942111 / [get document] virtual_dispensary.html
+[15 Nov 2008 15:53:31 -0500] 75.204.86.19 ntsl942111 / [get document] includes/footer.html
+[15 Nov 2008 15:53:37 -0500] 75.204.86.19 ntsl942111 / [get document] testimonials.htm
+[15 Nov 2008 15:54:00 -0500] 75.204.86.19 ntsl942111 / [get document] supplements.htm
+[15 Nov 2008 15:54:04 -0500] 75.204.86.19 ntsl942111 / [get document] services.htm
+[15 Nov 2008 15:54:10 -0500] 75.204.86.19 ntsl942111 / [get document] payment.htm
+[15 Nov 2008 15:54:16 -0500] 75.204.86.19 ntsl942111 / [get document] office.htm
+[15 Nov 2008 15:54:22 -0500] 75.204.86.19 ntsl942111 / [get document] naturopathic.htm
+[15 Nov 2008 15:54:41 -0500] 75.204.86.19 ntsl942111 / [get document] bios.htm
+[15 Nov 2008 15:54:47 -0500] 75.204.86.19 ntsl942111 / [get document] bio.htm
+[17 Nov 2008 21:19:45 -0500] 75.205.152.62 1470635-1580998 - [server version] -
+[17 Nov 2008 21:19:46 -0500] 75.205.152.62 1470635-1580998 - [url to web url] -
+[17 Nov 2008 21:19:47 -0500] 75.205.152.62 1470635-1580998 / [open service] -
+[17 Nov 2008 21:20:36 -0500] 75.205.152.62 ntsl942111 / [open service] -
+[17 Nov 2008 21:20:37 -0500] 75.205.152.62 ntsl942111 / [get document] main4.html
+[17 Nov 2008 21:20:42 -0500] 75.205.152.62 ntsl942111 / [get document] includes/footer.html
+[17 Nov 2008 21:20:49 -0500] 75.205.152.62 ntsl942111 / [list documents] -
+[17 Nov 2008 21:20:53 -0500] 75.205.152.62 ntsl942111 / [get document] about.html
+[17 Nov 2008 21:27:42 -0500] 75.205.152.62 ntsl942111 / [put document] about.html
+[17 Nov 2008 21:28:39 -0500] 75.205.152.62 ntsl942111 / [put document] about.html
+[17 Nov 2008 21:29:30 -0500] 75.205.152.62 ntsl942111 / [put document] about.html
+[17 Nov 2008 21:29:33 -0500] 75.205.152.62 ntsl942111 / [get document] biomeridian.html
+[17 Nov 2008 21:29:34 -0500] 75.205.152.62 ntsl942111 / [get document] bio.htm
+[17 Nov 2008 21:29:41 -0500] 75.205.152.62 ntsl942111 / [get document] bios.html
+[17 Nov 2008 21:29:42 -0500] 75.205.152.62 ntsl942111 / [get document] bios.htm
+[17 Nov 2008 21:29:44 -0500] 75.205.152.62 ntsl942111 / [get document] contact.html
+[17 Nov 2008 21:29:47 -0500] 75.205.152.62 ntsl942111 / [get document] forms.html
+[17 Nov 2008 21:35:47 -0500] 75.205.152.62 ntsl942111 / [put document] biomeridian.html
+[17 Nov 2008 21:36:42 -0500] 75.205.152.62 ntsl942111 / [put document] bios.html
+[17 Nov 2008 21:38:36 -0500] 75.205.152.62 ntsl942111 / [put document] contact.html
+[17 Nov 2008 21:40:08 -0500] 75.205.152.62 ntsl942111 / [put document] forms.html
+[17 Nov 2008 21:40:21 -0500] 75.205.152.62 ntsl942111 / [get document] naturopathic_medicine.html
+[17 Nov 2008 21:40:22 -0500] 75.205.152.62 ntsl942111 / [get document] naturopathic.htm
+[17 Nov 2008 21:40:23 -0500] 75.205.152.62 ntsl942111 / [get document] office.html
+[17 Nov 2008 21:40:24 -0500] 75.205.152.62 ntsl942111 / [get document] office.htm
+[17 Nov 2008 21:40:26 -0500] 75.205.152.62 ntsl942111 / [get document] payment.html
+[17 Nov 2008 21:40:27 -0500] 75.205.152.62 ntsl942111 / [get document] payment.htm
+[17 Nov 2008 21:40:29 -0500] 75.205.152.62 ntsl942111 / [get document] services.html
+[17 Nov 2008 21:40:31 -0500] 75.205.152.62 ntsl942111 / [get document] services.htm
+[17 Nov 2008 21:40:32 -0500] 75.205.152.62 ntsl942111 / [get document] supplements.html
+[17 Nov 2008 21:40:34 -0500] 75.205.152.62 ntsl942111 / [get document] supplements.htm
+[17 Nov 2008 21:40:34 -0500] 75.205.152.62 ntsl942111 / [get document] testimonials.html
+[17 Nov 2008 21:40:36 -0500] 75.205.152.62 ntsl942111 / [get document] testimonials.htm
+[17 Nov 2008 21:40:37 -0500] 75.205.152.62 ntsl942111 / [get document] virtual_dispensary.html
+[17 Nov 2008 21:42:02 -0500] 75.205.152.62 ntsl942111 / [put document] virtual_dispensary.html
+[17 Nov 2008 21:43:38 -0500] 75.205.152.62 ntsl942111 / [put document] testimonials.html
+[17 Nov 2008 21:45:34 -0500] 75.205.152.62 ntsl942111 / [put document] supplements.html
+[17 Nov 2008 21:46:22 -0500] 75.205.152.62 ntsl942111 / [put document] services.html
+[17 Nov 2008 21:47:29 -0500] 75.205.152.62 ntsl942111 / [put document] payment.html
+[17 Nov 2008 21:49:27 -0500] 75.205.152.62 ntsl942111 / [put document] office.html
+[17 Nov 2008 21:50:13 -0500] 75.205.152.62 ntsl942111 / [put document] naturopathic_medicine.html
+[17 Nov 2008 21:51:40 -0500] 75.205.152.62 ntsl942111 / [get document] contact.html
+[17 Nov 2008 21:51:46 -0500] 75.205.152.62 ntsl942111 / [list documents] -
+[17 Nov 2008 21:52:03 -0500] 75.205.152.62 ntsl942111 / [put document] contact.html
+[17 Nov 2008 22:01:10 -0500] 75.205.152.62 ntsl942111 / [get document] supplements.html
+[17 Nov 2008 22:01:12 -0500] 75.205.152.62 ntsl942111 / [get document] supplements.htm
+[17 Nov 2008 22:01:53 -0500] 75.205.152.62 ntsl942111 / [put document] resources.htm
+[17 Nov 2008 22:02:10 -0500] 75.205.152.62 ntsl942111 / [put document] resources.html
+[17 Nov 2008 22:02:52 -0500] 75.205.152.62 ntsl942111 / [put document] resources.html
+[17 Nov 2008 22:04:43 -0500] 75.205.152.62 ntsl942111 / [put document] resources.html
+[17 Nov 2008 22:55:40 -0500] 75.205.152.62 ntsl942111 / [put document] DietDiary.pdf
+[17 Nov 2008 22:56:02 -0500] 75.205.152.62 ntsl942111 / [list documents] -
+[17 Nov 2008 22:56:03 -0500] 75.205.152.62 ntsl942111 / [get document] forms/index.html
+[17 Nov 2008 22:56:44 -0500] 75.205.152.62 ntsl942111 / [list documents] -
+[17 Nov 2008 22:57:23 -0500] 75.205.152.62 ntsl942111 / [move document] DietDiary.pdf
+[17 Nov 2008 22:57:38 -0500] 75.205.152.62 ntsl942111 / [move document] SymptomSurveyForm.pdf
+[17 Nov 2008 22:57:46 -0500] 75.205.152.62 ntsl942111 / [move document] MetabolicTypingQuestionnaire.pdf
+[17 Nov 2008 22:58:06 -0500] 75.205.152.62 ntsl942111 / [getDocsMetaInfo] -
+[17 Nov 2008 22:58:09 -0500] 75.205.152.62 ntsl942111 / [move document] Registration Form.pdf
+[17 Nov 2008 22:58:15 -0500] 75.205.152.62 ntsl942111 / [move document] RegistrationForm.pdf
+[17 Nov 2008 22:58:24 -0500] 75.205.152.62 ntsl942111 / [move document] PatientHistory.pdf
+[17 Nov 2008 22:58:35 -0500] 75.205.152.62 ntsl942111 / [move document] MedicalRelease.pdf
+[17 Nov 2008 22:58:44 -0500] 75.205.152.62 ntsl942111 / [move document] Disclosure.pdf
+[17 Nov 2008 22:59:54 -0500] 75.205.152.62 ntsl942111 / [put document] forms/index.html
+[17 Nov 2008 23:02:55 -0500] 75.205.152.62 ntsl942111 / [get document] forms/index.html
+[17 Nov 2008 23:02:56 -0500] 75.205.152.62 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 14:04:08 -0500] 70.194.23.94 1470635-1580998 - [server version] -
+[18 Nov 2008 14:04:08 -0500] 70.194.23.94 1470635-1580998 - [url to web url] -
+[18 Nov 2008 14:04:09 -0500] 70.194.23.94 1470635-1580998 / [open service] -
+[18 Nov 2008 14:04:38 -0500] 70.194.23.94 ntsl942111 / [open service] -
+[18 Nov 2008 14:04:40 -0500] 70.194.23.94 ntsl942111 / [get document] main4.html
+[18 Nov 2008 14:04:44 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 14:04:53 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 14:05:08 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 14:06:11 -0500] 70.194.23.94 ntsl942111 / [put document] forms/PatientHistory.pdf
+[18 Nov 2008 14:06:21 -0500] 70.194.23.94 ntsl942111 / [put document] forms/PatientHistory.pdf
+[18 Nov 2008 14:41:37 -0500] 70.194.23.94 ntsl942111 / [get document] about.html
+[18 Nov 2008 14:42:20 -0500] 70.194.23.94 ntsl942111 / [put document] about.html
+[18 Nov 2008 14:42:35 -0500] 70.194.23.94 ntsl942111 / [put document] main4.html
+[18 Nov 2008 14:42:41 -0500] 70.194.23.94 ntsl942111 / [get document] biomeridian.html
+[18 Nov 2008 14:42:42 -0500] 70.194.23.94 ntsl942111 / [get document] bio.htm
+[18 Nov 2008 14:42:43 -0500] 70.194.23.94 ntsl942111 / [get document] bios.html
+[18 Nov 2008 14:42:48 -0500] 70.194.23.94 ntsl942111 / [get document] bios.htm
+[18 Nov 2008 14:42:49 -0500] 70.194.23.94 ntsl942111 / [get document] contact.html
+[18 Nov 2008 14:42:51 -0500] 70.194.23.94 ntsl942111 / [get document] forms.html
+[18 Nov 2008 14:42:55 -0500] 70.194.23.94 ntsl942111 / [get document] naturopathic_medicine.html
+[18 Nov 2008 14:42:57 -0500] 70.194.23.94 ntsl942111 / [get document] naturopathic.htm
+[18 Nov 2008 14:42:58 -0500] 70.194.23.94 ntsl942111 / [get document] office.html
+[18 Nov 2008 14:42:59 -0500] 70.194.23.94 ntsl942111 / [get document] office.htm
+[18 Nov 2008 14:43:00 -0500] 70.194.23.94 ntsl942111 / [get document] payment.html
+[18 Nov 2008 14:43:01 -0500] 70.194.23.94 ntsl942111 / [get document] resources.html
+[18 Nov 2008 14:43:02 -0500] 70.194.23.94 ntsl942111 / [get document] payment.htm
+[18 Nov 2008 14:43:03 -0500] 70.194.23.94 ntsl942111 / [get document] resources.htm
+[18 Nov 2008 14:43:03 -0500] 70.194.23.94 ntsl942111 / [get document] services.html
+[18 Nov 2008 14:43:04 -0500] 70.194.23.94 ntsl942111 / [get document] services.htm
+[18 Nov 2008 14:43:05 -0500] 70.194.23.94 ntsl942111 / [get document] supplements.html
+[18 Nov 2008 14:43:06 -0500] 70.194.23.94 ntsl942111 / [get document] testimonials.html
+[18 Nov 2008 14:43:07 -0500] 70.194.23.94 ntsl942111 / [get document] supplements.htm
+[18 Nov 2008 14:43:08 -0500] 70.194.23.94 ntsl942111 / [get document] testimonials.htm
+[18 Nov 2008 14:43:09 -0500] 70.194.23.94 ntsl942111 / [get document] virtual_dispensary.html
+[18 Nov 2008 14:43:18 -0500] 70.194.23.94 ntsl942111 / [put document] virtual_dispensary.html
+[18 Nov 2008 14:43:29 -0500] 70.194.23.94 ntsl942111 / [put document] testimonials.html
+[18 Nov 2008 14:43:37 -0500] 70.194.23.94 ntsl942111 / [put document] supplements.html
+[18 Nov 2008 14:43:47 -0500] 70.194.23.94 ntsl942111 / [put document] services.html
+[18 Nov 2008 14:43:56 -0500] 70.194.23.94 ntsl942111 / [put document] resources.html
+[18 Nov 2008 14:44:06 -0500] 70.194.23.94 ntsl942111 / [put document] payment.html
+[18 Nov 2008 14:44:17 -0500] 70.194.23.94 ntsl942111 / [put document] office.html
+[18 Nov 2008 14:44:25 -0500] 70.194.23.94 ntsl942111 / [put document] naturopathic_medicine.html
+[18 Nov 2008 14:44:35 -0500] 70.194.23.94 ntsl942111 / [put document] forms.html
+[18 Nov 2008 14:44:46 -0500] 70.194.23.94 ntsl942111 / [put document] contact.html
+[18 Nov 2008 14:45:00 -0500] 70.194.23.94 ntsl942111 / [put document] bios.html
+[18 Nov 2008 14:45:09 -0500] 70.194.23.94 ntsl942111 / [put document] biomeridian.html
+[18 Nov 2008 14:45:19 -0500] 70.194.23.94 ntsl942111 / [put document] about.html
+[18 Nov 2008 14:45:25 -0500] 70.194.23.94 ntsl942111 / [put document] main4.html
+[18 Nov 2008 15:00:08 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 15:00:29 -0500] 70.194.23.94 ntsl942111 / [get document] forms/index.html
+[18 Nov 2008 15:00:53 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 15:04:20 -0500] 70.194.23.94 ntsl942111 / [put document] forms/index.html
+[18 Nov 2008 15:04:26 -0500] 70.194.23.94 ntsl942111 / [get document] contact.html
+[18 Nov 2008 15:06:28 -0500] 70.194.23.94 ntsl942111 / [put document] contact.html
+[18 Nov 2008 15:11:09 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 15:11:14 -0500] 70.194.23.94 ntsl942111 / [get document] office.html
+[18 Nov 2008 15:11:15 -0500] 70.194.23.94 ntsl942111 / [get document] office.htm
+[18 Nov 2008 15:14:34 -0500] 70.194.23.94 ntsl942111 / [put document] office.htm
+[18 Nov 2008 15:14:37 -0500] 70.194.23.94 ntsl942111 / [put document] office.html
+[18 Nov 2008 15:15:57 -0500] 70.194.23.94 ntsl942111 / [put document] office.html
+[18 Nov 2008 15:15:59 -0500] 70.194.23.94 ntsl942111 / [get document] contact.html
+[18 Nov 2008 15:16:01 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 15:17:27 -0500] 70.194.23.94 ntsl942111 / [put document] forms/MedicalRelease.pdf
+[18 Nov 2008 15:17:36 -0500] 70.194.23.94 ntsl942111 / [put document] forms/MedicalRelease.pdf
+[18 Nov 2008 15:20:29 -0500] 70.194.23.94 ntsl942111 / [put document] office.htm
+[18 Nov 2008 15:20:31 -0500] 70.194.23.94 ntsl942111 / [put document] office.html
+[18 Nov 2008 15:22:53 -0500] 70.194.23.94 ntsl942111 / [get document] main4.html
+[18 Nov 2008 15:23:22 -0500] 70.194.23.94 ntsl942111 / [put document] main4.html
+[18 Nov 2008 15:34:30 -0500] 70.194.23.94 ntsl942111 / [get document] main4.html
+[18 Nov 2008 15:35:37 -0500] 70.194.23.94 ntsl942111 / [put document] main4.html
+[18 Nov 2008 15:35:42 -0500] 70.194.23.94 ntsl942111 / [get document] about.html
+[18 Nov 2008 15:35:46 -0500] 70.194.23.94 ntsl942111 / [get document] bios.html
+[18 Nov 2008 15:35:46 -0500] 70.194.23.94 ntsl942111 / [get document] bios.htm
+[18 Nov 2008 15:36:15 -0500] 70.194.23.94 ntsl942111 / [put document] bios.htm
+[18 Nov 2008 15:36:17 -0500] 70.194.23.94 ntsl942111 / [put document] bios.html
+[18 Nov 2008 15:36:36 -0500] 70.194.23.94 ntsl942111 / [put document] about.html
+[18 Nov 2008 15:51:34 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 15:52:19 -0500] 70.194.23.94 ntsl942111 / [put document] bios.htm
+[18 Nov 2008 15:52:21 -0500] 70.194.23.94 ntsl942111 / [put document] bios.html
+[18 Nov 2008 16:11:11 -0500] 70.194.23.94 ntsl942111 / [put document] bios.htm
+[18 Nov 2008 16:11:14 -0500] 70.194.23.94 ntsl942111 / [put document] bios.html
+[18 Nov 2008 16:24:59 -0500] 70.194.23.94 ntsl942111 / [put document] office.htm
+[18 Nov 2008 16:25:02 -0500] 70.194.23.94 ntsl942111 / [put document] office.html
+[18 Nov 2008 16:30:07 -0500] 70.194.23.94 ntsl942111 / [put document] office.htm
+[18 Nov 2008 16:30:09 -0500] 70.194.23.94 ntsl942111 / [put document] office.html
+[18 Nov 2008 16:30:25 -0500] 70.194.23.94 ntsl942111 / [get document] services.html
+[18 Nov 2008 16:30:26 -0500] 70.194.23.94 ntsl942111 / [get document] services.htm
+[18 Nov 2008 16:30:27 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 16:35:50 -0500] 70.194.23.94 ntsl942111 / [put document] services.htm
+[18 Nov 2008 16:35:52 -0500] 70.194.23.94 ntsl942111 / [put document] services.html
+[18 Nov 2008 16:38:42 -0500] 70.194.23.94 ntsl942111 / [get document] virtual_dispensary.html
+[18 Nov 2008 16:38:43 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 16:38:47 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 16:38:56 -0500] 70.194.23.94 ntsl942111 / [put document] virtual_dispensary.html
+[18 Nov 2008 16:39:35 -0500] 70.194.23.94 ntsl942111 / [get document] contact.html
+[18 Nov 2008 16:39:36 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 16:40:06 -0500] 70.194.23.94 ntsl942111 / [put document] contact.html
+[18 Nov 2008 16:41:32 -0500] 70.194.23.94 ntsl942111 / [put document] contact.html
+[18 Nov 2008 16:41:50 -0500] 70.194.23.94 ntsl942111 / [get document] forms/index.html
+[18 Nov 2008 16:42:04 -0500] 70.194.23.94 ntsl942111 / [put document] forms/index.html
+[18 Nov 2008 16:42:41 -0500] 70.194.23.94 ntsl942111 / [put document] forms/index.html
+[18 Nov 2008 16:48:55 -0500] 70.194.23.94 ntsl942111 / [put document] forms/index.html
+[18 Nov 2008 16:49:04 -0500] 70.194.23.94 ntsl942111 / [put document] contact.html
+[18 Nov 2008 16:49:14 -0500] 70.194.23.94 ntsl942111 / [get document] naturopathic_medicine.html
+[18 Nov 2008 16:49:15 -0500] 70.194.23.94 ntsl942111 / [get document] naturopathic.htm
+[18 Nov 2008 16:49:24 -0500] 70.194.23.94 ntsl942111 / [get document] biomeridian.html
+[18 Nov 2008 16:49:25 -0500] 70.194.23.94 ntsl942111 / [get document] bio.htm
+[18 Nov 2008 16:55:30 -0500] 70.194.23.94 ntsl942111 / [put document] naturopathic.htm
+[18 Nov 2008 16:55:32 -0500] 70.194.23.94 ntsl942111 / [put document] naturopathic_medicine.html
+[18 Nov 2008 17:00:43 -0500] 70.194.23.94 ntsl942111 / [put document] naturopathic.htm
+[18 Nov 2008 17:00:45 -0500] 70.194.23.94 ntsl942111 / [put document] naturopathic_medicine.html
+[18 Nov 2008 17:08:23 -0500] 70.194.23.94 1470635-1580998 - [url to web url] -
+[18 Nov 2008 17:08:24 -0500] 70.194.23.94 ntsl942111 / [getDocsMetaInfo] -
+[18 Nov 2008 17:08:27 -0500] 70.194.23.94 ntsl942111 / [put document] bio.htm
+[18 Nov 2008 17:08:28 -0500] 70.194.23.94 1470635-1580998 - [url to web url] -
+[18 Nov 2008 17:08:29 -0500] 70.194.23.94 ntsl942111 / [getDocsMetaInfo] -
+[18 Nov 2008 17:08:29 -0500] 70.194.23.94 ntsl942111 / [getDocsMetaInfo] -
+[18 Nov 2008 17:08:30 -0500] 70.194.23.94 ntsl942111 / [getDocsMetaInfo] -
+[18 Nov 2008 17:08:30 -0500] 70.194.23.94 ntsl942111 / [getDocsMetaInfo] -
+[18 Nov 2008 17:08:36 -0500] 70.194.23.94 ntsl942111 / [put documents] -
+[18 Nov 2008 17:08:39 -0500] 70.194.23.94 ntsl942111 / [put document] biomeridian.html
+[18 Nov 2008 17:09:17 -0500] 70.194.23.94 ntsl942111 / [get document] testimonials.html
+[18 Nov 2008 17:09:18 -0500] 70.194.23.94 ntsl942111 / [get document] testimonials.htm
+[18 Nov 2008 17:09:19 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 17:16:42 -0500] 70.194.23.94 ntsl942111 / [put document] testimonials.htm
+[18 Nov 2008 17:16:44 -0500] 70.194.23.94 ntsl942111 / [put document] testimonials.html
+[18 Nov 2008 17:28:31 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 17:28:32 -0500] 70.194.23.94 ntsl942111 / [create url-directories] -
+[18 Nov 2008 17:28:33 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 17:28:38 -0500] 70.194.23.94 ntsl942111 / [move document] New_Folder
+[18 Nov 2008 17:28:56 -0500] 70.194.23.94 ntsl942111 / [move document] payment.html
+[18 Nov 2008 17:29:03 -0500] 70.194.23.94 ntsl942111 / [move document] payment.htm
+[18 Nov 2008 17:30:25 -0500] 70.194.23.94 ntsl942111 / [getDocsMetaInfo] -
+[18 Nov 2008 17:30:47 -0500] 70.194.23.94 ntsl942111 / [move document] payment/payment.html
+[18 Nov 2008 17:54:31 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 17:54:42 -0500] 70.194.23.94 ntsl942111 / [put document] forms/DietDiary.pdf
+[18 Nov 2008 17:55:46 -0500] 70.194.23.94 ntsl942111 / [put document] forms/DietDiary.pdf
+[18 Nov 2008 18:11:52 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 18:11:52 -0500] 70.194.23.94 ntsl942111 / [get document] payment/index.html
+[18 Nov 2008 18:11:53 -0500] 70.194.23.94 ntsl942111 / [get document] payment/payment.htm
+[18 Nov 2008 18:11:54 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 18:18:36 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 18:19:08 -0500] 70.194.23.94 ntsl942111 / [get document] services.html
+[18 Nov 2008 18:19:09 -0500] 70.194.23.94 ntsl942111 / [get document] services.htm
+[18 Nov 2008 18:20:40 -0500] 70.194.23.94 ntsl942111 / [put document] services.htm
+[18 Nov 2008 18:20:42 -0500] 70.194.23.94 ntsl942111 / [put document] services.html
+[18 Nov 2008 19:20:51 -0500] 70.194.23.94 ntsl942111 / [put document] payment/payment.htm
+[18 Nov 2008 19:20:54 -0500] 70.194.23.94 ntsl942111 / [put document] payment/index.html
+[18 Nov 2008 19:24:16 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 19:24:23 -0500] 70.194.23.94 ntsl942111 / [put document] forms/MedicalRelease.pdf
+[18 Nov 2008 19:24:32 -0500] 70.194.23.94 ntsl942111 / [put document] forms/MedicalRelease.pdf
+[18 Nov 2008 19:27:59 -0500] 70.194.23.94 1470635-1580998 - [server version] -
+[18 Nov 2008 19:27:59 -0500] 70.194.23.94 1470635-1580998 - [url to web url] -
+[18 Nov 2008 19:28:00 -0500] 70.194.23.94 1470635-1580998 / [open service] -
+[18 Nov 2008 19:28:17 -0500] 70.194.23.94 ntsl942111 / [open service] -
+[18 Nov 2008 19:28:18 -0500] 70.194.23.94 ntsl942111 / [get document] forms/index.html
+[18 Nov 2008 19:28:19 -0500] 70.194.23.94 ntsl942111 / [get document] includes/footer.html
+[18 Nov 2008 19:28:20 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 19:28:43 -0500] 70.194.23.94 ntsl942111 / [list documents] -
+[18 Nov 2008 19:29:40 -0500] 70.194.23.94 ntsl942111 / [put document] forms/index.html
+[19 Nov 2008 12:01:07 -0500] 70.195.153.79 1470635-1580998 - [server version] -
+[19 Nov 2008 12:01:08 -0500] 70.195.153.79 1470635-1580998 - [url to web url] -
+[19 Nov 2008 12:01:09 -0500] 70.195.153.79 1470635-1580998 / [open service] -
+[19 Nov 2008 12:01:43 -0500] 70.195.153.79 ntsl942111 / [open service] -
+[19 Nov 2008 12:01:45 -0500] 70.195.153.79 ntsl942111 / [get document] payment/index.html
+[19 Nov 2008 12:01:48 -0500] 70.195.153.79 ntsl942111 / [get document] payment/payment.htm
+[19 Nov 2008 12:01:49 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 12:01:51 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 12:34:09 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:34:12 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 12:39:16 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:39:23 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 12:39:50 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:39:53 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 12:41:22 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:41:25 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 12:42:07 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:42:09 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 12:42:20 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:46:02 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:46:04 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 12:52:15 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 12:52:40 -0500] 70.195.153.79 ntsl942111 / [put documents] -
+[19 Nov 2008 12:52:40 -0500] 70.195.153.79 ntsl942111 / [put document] othercode.htm
+[19 Nov 2008 12:52:50 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 12:53:11 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 12:53:31 -0500] 70.195.153.79 ntsl942111 / [get document] about.html
+[19 Nov 2008 12:53:33 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 12:54:17 -0500] 70.195.153.79 ntsl942111 / [put document] payment/cancel.html
+[19 Nov 2008 12:56:23 -0500] 70.195.153.79 ntsl942111 / [put document] payment/cancel.html
+[19 Nov 2008 12:59:17 -0500] 70.195.153.79 ntsl942111 / [put document] payment/cancel.html
+[19 Nov 2008 12:59:42 -0500] 70.195.153.79 ntsl942111 / [put document] payment/success.html
+[19 Nov 2008 13:01:01 -0500] 70.195.153.79 ntsl942111 / [put document] payment/success.html
+[19 Nov 2008 13:01:09 -0500] 70.195.153.79 ntsl942111 / [put document] payment/success.htm
+[19 Nov 2008 13:02:38 -0500] 70.195.153.79 ntsl942111 / [get document] forms.html
+[19 Nov 2008 13:02:55 -0500] 70.195.153.79 ntsl942111 / [put document] payments.html
+[19 Nov 2008 13:03:15 -0500] 70.195.153.79 ntsl942111 / [put document] payment.html
+[19 Nov 2008 13:04:16 -0500] 70.195.153.79 ntsl942111 / [get document] payment/index.html
+[19 Nov 2008 13:04:18 -0500] 70.195.153.79 ntsl942111 / [get document] payment/payment.htm
+[19 Nov 2008 13:05:38 -0500] 70.195.153.79 ntsl942111 / [put document] payment.html
+[19 Nov 2008 13:17:50 -0500] 70.195.153.79 1470635-1580998 - [server version] -
+[19 Nov 2008 13:17:51 -0500] 70.195.153.79 1470635-1580998 - [url to web url] -
+[19 Nov 2008 13:17:51 -0500] 70.195.153.79 1470635-1580998 / [open service] -
+[19 Nov 2008 13:18:09 -0500] 70.195.153.79 ntsl942111 / [open service] -
+[19 Nov 2008 13:18:10 -0500] 70.195.153.79 ntsl942111 / [get document] main4.html
+[19 Nov 2008 13:18:18 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 13:18:29 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 13:25:05 -0500] 70.195.153.79 ntsl942111 / [put document] main4.html
+[19 Nov 2008 13:25:12 -0500] 70.195.153.79 ntsl942111 / [get document] about.html
+[19 Nov 2008 13:25:28 -0500] 70.195.153.79 ntsl942111 / [put document] about.html
+[19 Nov 2008 13:25:33 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 13:25:36 -0500] 70.195.153.79 ntsl942111 / [get document] forms/index.html
+[19 Nov 2008 13:25:53 -0500] 70.195.153.79 ntsl942111 / [put document] forms/index.html
+[19 Nov 2008 13:25:59 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 13:26:01 -0500] 70.195.153.79 ntsl942111 / [get document] payment/cancel.html
+[19 Nov 2008 13:26:04 -0500] 70.195.153.79 ntsl942111 / [get document] payment/index.html
+[19 Nov 2008 13:26:05 -0500] 70.195.153.79 ntsl942111 / [get document] payment/payment.htm
+[19 Nov 2008 13:26:12 -0500] 70.195.153.79 ntsl942111 / [get document] payment/success.htm
+[19 Nov 2008 13:26:16 -0500] 70.195.153.79 ntsl942111 / [get document] payment/success.html
+[19 Nov 2008 13:26:28 -0500] 70.195.153.79 ntsl942111 / [put document] payment/success.html
+[19 Nov 2008 13:26:37 -0500] 70.195.153.79 ntsl942111 / [put document] payment/success.htm
+[19 Nov 2008 13:26:48 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 13:27:16 -0500] 70.195.153.79 ntsl942111 / [put document] payment/payment.htm
+[19 Nov 2008 13:27:18 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 13:27:27 -0500] 70.195.153.79 ntsl942111 / [put document] payment/cancel.html
+[19 Nov 2008 13:27:38 -0500] 70.195.153.79 ntsl942111 / [get document] biomeridian.html
+[19 Nov 2008 13:27:39 -0500] 70.195.153.79 ntsl942111 / [get document] bio.htm
+[19 Nov 2008 13:27:48 -0500] 70.195.153.79 ntsl942111 / [get document] bios.html
+[19 Nov 2008 13:27:50 -0500] 70.195.153.79 ntsl942111 / [get document] bios.htm
+[19 Nov 2008 13:27:52 -0500] 70.195.153.79 ntsl942111 / [get document] contact.html
+[19 Nov 2008 13:27:55 -0500] 70.195.153.79 ntsl942111 / [get document] forms.html
+[19 Nov 2008 13:28:15 -0500] 70.195.153.79 ntsl942111 / [put document] forms.html
+[19 Nov 2008 13:28:23 -0500] 70.195.153.79 ntsl942111 / [put document] contact.html
+[19 Nov 2008 13:28:33 -0500] 70.195.153.79 ntsl942111 / [put document] bios.html
+[19 Nov 2008 13:28:35 -0500] 70.195.153.79 ntsl942111 / [get document] bios.htm
+[19 Nov 2008 13:28:43 -0500] 70.195.153.79 ntsl942111 / [put document] biomeridian.html
+[19 Nov 2008 13:28:48 -0500] 70.195.153.79 ntsl942111 / [get document] naturopathic_medicine.html
+[19 Nov 2008 13:28:49 -0500] 70.195.153.79 ntsl942111 / [get document] naturopathic.htm
+[19 Nov 2008 13:28:52 -0500] 70.195.153.79 ntsl942111 / [get document] office.html
+[19 Nov 2008 13:28:53 -0500] 70.195.153.79 ntsl942111 / [get document] office.htm
+[19 Nov 2008 13:28:56 -0500] 70.195.153.79 ntsl942111 / [get document] payment.html
+[19 Nov 2008 13:29:04 -0500] 70.195.153.79 ntsl942111 / [get web struct] -
+[19 Nov 2008 13:29:06 -0500] 70.195.153.79 ntsl942111 / [remove documents] payments.html
+[19 Nov 2008 13:29:08 -0500] 70.195.153.79 ntsl942111 / [get document] resources.html
+[19 Nov 2008 13:29:09 -0500] 70.195.153.79 ntsl942111 / [get document] resources.htm
+[19 Nov 2008 13:29:12 -0500] 70.195.153.79 ntsl942111 / [get document] services.html
+[19 Nov 2008 13:29:13 -0500] 70.195.153.79 ntsl942111 / [get document] services.htm
+[19 Nov 2008 13:29:16 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.html
+[19 Nov 2008 13:29:18 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.htm
+[19 Nov 2008 13:29:21 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.html
+[19 Nov 2008 13:29:22 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.htm
+[19 Nov 2008 13:29:24 -0500] 70.195.153.79 ntsl942111 / [get document] virtual_dispensary.html
+[19 Nov 2008 13:29:34 -0500] 70.195.153.79 ntsl942111 / [put document] virtual_dispensary.html
+[19 Nov 2008 13:29:42 -0500] 70.195.153.79 ntsl942111 / [put document] testimonials.html
+[19 Nov 2008 13:29:44 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.htm
+[19 Nov 2008 13:29:54 -0500] 70.195.153.79 ntsl942111 / [put document] supplements.html
+[19 Nov 2008 13:29:56 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.htm
+[19 Nov 2008 13:30:03 -0500] 70.195.153.79 ntsl942111 / [put document] services.html
+[19 Nov 2008 13:30:06 -0500] 70.195.153.79 ntsl942111 / [get document] services.htm
+[19 Nov 2008 13:30:17 -0500] 70.195.153.79 ntsl942111 / [put document] resources.html
+[19 Nov 2008 13:30:20 -0500] 70.195.153.79 ntsl942111 / [get document] resources.htm
+[19 Nov 2008 13:30:26 -0500] 70.195.153.79 ntsl942111 / [put document] payment.html
+[19 Nov 2008 13:30:37 -0500] 70.195.153.79 ntsl942111 / [put document] office.html
+[19 Nov 2008 13:30:39 -0500] 70.195.153.79 ntsl942111 / [get document] office.htm
+[19 Nov 2008 13:30:46 -0500] 70.195.153.79 ntsl942111 / [put document] naturopathic_medicine.html
+[19 Nov 2008 13:31:49 -0500] 70.195.153.79 ntsl942111 / [get document] forms.html
+[19 Nov 2008 13:31:53 -0500] 70.195.153.79 ntsl942111 / [get document] contact.html
+[19 Nov 2008 13:33:08 -0500] 70.195.153.79 ntsl942111 / [put document] Brochure.pdf
+[19 Nov 2008 13:34:21 -0500] 70.195.153.79 ntsl942111 / [get document] about.html
+[19 Nov 2008 13:34:26 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 13:34:27 -0500] 70.195.153.79 ntsl942111 / [get document] services.html
+[19 Nov 2008 13:34:27 -0500] 70.195.153.79 ntsl942111 / [get document] services.htm
+[19 Nov 2008 13:35:46 -0500] 70.195.153.79 ntsl942111 / [get document] services.htm
+[19 Nov 2008 13:36:48 -0500] 70.195.153.79 ntsl942111 / [put document] about.html
+[19 Nov 2008 22:41:46 -0500] 70.195.153.79 1470635-1580998 - [server version] -
+[19 Nov 2008 22:41:47 -0500] 70.195.153.79 1470635-1580998 - [url to web url] -
+[19 Nov 2008 22:41:48 -0500] 70.195.153.79 1470635-1580998 / [open service] -
+[19 Nov 2008 22:42:06 -0500] 70.195.153.79 ntsl942111 / [open service] -
+[19 Nov 2008 22:42:06 -0500] 70.195.153.79 ntsl942111 / [get document] main4.html
+[19 Nov 2008 22:42:11 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 22:42:18 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 22:42:44 -0500] 70.195.153.79 1470635-1580998 - [server version] -
+[19 Nov 2008 22:42:44 -0500] 70.195.153.79 1470635-1580998 - [url to web url] -
+[19 Nov 2008 22:42:45 -0500] 70.195.153.79 1470635-1580998 / [open service] -
+[19 Nov 2008 22:43:00 -0500] 70.195.153.79 ntsl942111 / [open service] -
+[19 Nov 2008 22:43:01 -0500] 70.195.153.79 ntsl942111 / [get document] about.html
+[19 Nov 2008 22:43:03 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 22:43:04 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 22:52:53 -0500] 70.195.153.79 ntsl942111 / [put document] about.html
+[19 Nov 2008 22:52:58 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 22:53:06 -0500] 70.195.153.79 ntsl942111 / [get document] forms/index.html
+[19 Nov 2008 22:53:18 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 22:53:20 -0500] 70.195.153.79 ntsl942111 / [get document] payment/cancel.html
+[19 Nov 2008 22:53:25 -0500] 70.195.153.79 ntsl942111 / [get document] payment/index.html
+[19 Nov 2008 22:53:27 -0500] 70.195.153.79 ntsl942111 / [get document] payment/payment.htm
+[19 Nov 2008 22:53:38 -0500] 70.195.153.79 ntsl942111 / [get document] payment/success.htm
+[19 Nov 2008 22:53:43 -0500] 70.195.153.79 ntsl942111 / [get document] payment/success.html
+[19 Nov 2008 22:54:47 -0500] 70.195.153.79 ntsl942111 / [put document] payment/success.html
+[19 Nov 2008 22:54:58 -0500] 70.195.153.79 ntsl942111 / [put document] payment/success.htm
+[19 Nov 2008 22:55:08 -0500] 70.195.153.79 ntsl942111 / [put document] payment/index.html
+[19 Nov 2008 22:55:10 -0500] 70.195.153.79 ntsl942111 / [get document] payment/payment.htm
+[19 Nov 2008 22:55:18 -0500] 70.195.153.79 ntsl942111 / [put document] payment/cancel.html
+[19 Nov 2008 22:55:27 -0500] 70.195.153.79 ntsl942111 / [put document] forms/index.html
+[19 Nov 2008 22:55:35 -0500] 70.195.153.79 ntsl942111 / [get document] biomeridian.html
+[19 Nov 2008 22:55:36 -0500] 70.195.153.79 ntsl942111 / [get document] bio.htm
+[19 Nov 2008 22:55:37 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 22:55:48 -0500] 70.195.153.79 ntsl942111 / [get document] bios.html
+[19 Nov 2008 22:55:49 -0500] 70.195.153.79 ntsl942111 / [get document] bios.htm
+[19 Nov 2008 22:55:51 -0500] 70.195.153.79 ntsl942111 / [get document] contact.html
+[19 Nov 2008 22:55:53 -0500] 70.195.153.79 ntsl942111 / [get document] forms.html
+[19 Nov 2008 22:55:59 -0500] 70.195.153.79 ntsl942111 / [get document] naturopathic_medicine.html
+[19 Nov 2008 22:56:00 -0500] 70.195.153.79 ntsl942111 / [get document] naturopathic.htm
+[19 Nov 2008 22:56:02 -0500] 70.195.153.79 ntsl942111 / [get document] office.html
+[19 Nov 2008 22:56:03 -0500] 70.195.153.79 ntsl942111 / [get document] office.htm
+[19 Nov 2008 22:56:04 -0500] 70.195.153.79 ntsl942111 / [get document] payment.html
+[19 Nov 2008 22:56:07 -0500] 70.195.153.79 ntsl942111 / [get document] resources.html
+[19 Nov 2008 22:56:08 -0500] 70.195.153.79 ntsl942111 / [get document] resources.htm
+[19 Nov 2008 22:56:09 -0500] 70.195.153.79 ntsl942111 / [get document] services.html
+[19 Nov 2008 22:56:10 -0500] 70.195.153.79 ntsl942111 / [get document] services.htm
+[19 Nov 2008 22:56:11 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.html
+[19 Nov 2008 22:56:12 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.htm
+[19 Nov 2008 22:56:13 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.html
+[19 Nov 2008 22:56:14 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.htm
+[19 Nov 2008 22:56:15 -0500] 70.195.153.79 ntsl942111 / [get document] virtual_dispensary.html
+[19 Nov 2008 22:56:37 -0500] 70.195.153.79 ntsl942111 / [put document] virtual_dispensary.html
+[19 Nov 2008 22:56:49 -0500] 70.195.153.79 ntsl942111 / [put document] testimonials.html
+[19 Nov 2008 22:56:51 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.htm
+[19 Nov 2008 22:56:59 -0500] 70.195.153.79 ntsl942111 / [put document] supplements.html
+[19 Nov 2008 22:57:01 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.htm
+[19 Nov 2008 22:57:07 -0500] 70.195.153.79 ntsl942111 / [put document] services.html
+[19 Nov 2008 22:57:09 -0500] 70.195.153.79 ntsl942111 / [get document] services.htm
+[19 Nov 2008 22:57:16 -0500] 70.195.153.79 ntsl942111 / [put document] resources.html
+[19 Nov 2008 22:57:19 -0500] 70.195.153.79 ntsl942111 / [get document] resources.htm
+[19 Nov 2008 22:57:25 -0500] 70.195.153.79 ntsl942111 / [put document] payment.html
+[19 Nov 2008 22:57:35 -0500] 70.195.153.79 ntsl942111 / [put document] office.html
+[19 Nov 2008 22:57:37 -0500] 70.195.153.79 ntsl942111 / [get document] office.htm
+[19 Nov 2008 22:57:42 -0500] 70.195.153.79 ntsl942111 / [put document] naturopathic_medicine.html
+[19 Nov 2008 22:57:44 -0500] 70.195.153.79 ntsl942111 / [get document] naturopathic.htm
+[19 Nov 2008 22:57:51 -0500] 70.195.153.79 ntsl942111 / [put document] forms.html
+[19 Nov 2008 22:58:00 -0500] 70.195.153.79 ntsl942111 / [put document] contact.html
+[19 Nov 2008 22:58:09 -0500] 70.195.153.79 ntsl942111 / [put document] bios.html
+[19 Nov 2008 22:58:11 -0500] 70.195.153.79 ntsl942111 / [get document] bios.htm
+[19 Nov 2008 22:58:18 -0500] 70.195.153.79 ntsl942111 / [put document] biomeridian.html
+[19 Nov 2008 22:59:04 -0500] 70.195.153.79 ntsl942111 / [get document] virtual_dispensary.html
+[19 Nov 2008 22:59:05 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 23:01:08 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.html
+[19 Nov 2008 23:01:10 -0500] 70.195.153.79 ntsl942111 / [get document] supplements.htm
+[19 Nov 2008 23:01:15 -0500] 70.195.153.79 ntsl942111 / [get document] resources.html
+[19 Nov 2008 23:01:16 -0500] 70.195.153.79 ntsl942111 / [get document] resources.htm
+[19 Nov 2008 23:01:40 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.html
+[19 Nov 2008 23:01:41 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.htm
+[19 Nov 2008 23:01:51 -0500] 70.195.153.79 ntsl942111 / [get document] testimonials.htm
+[19 Nov 2008 23:02:03 -0500] 70.195.153.79 ntsl942111 / [put document] resources.html
+[19 Nov 2008 23:02:05 -0500] 70.195.153.79 ntsl942111 / [get document] resources.htm
+[19 Nov 2008 23:02:16 -0500] 70.195.153.79 ntsl942111 / [put document] supplements.html
+[19 Nov 2008 23:07:36 -0500] 70.195.153.79 1470635-1580998 - [server version] -
+[19 Nov 2008 23:07:36 -0500] 70.195.153.79 1470635-1580998 - [url to web url] -
+[19 Nov 2008 23:07:37 -0500] 70.195.153.79 1470635-1580998 / [open service] -
+[19 Nov 2008 23:07:53 -0500] 70.195.153.79 ntsl942111 / [open service] -
+[19 Nov 2008 23:07:54 -0500] 70.195.153.79 ntsl942111 / [get document] main4.html
+[19 Nov 2008 23:07:59 -0500] 70.195.153.79 ntsl942111 / [get document] includes/footer.html
+[19 Nov 2008 23:08:09 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 23:15:15 -0500] 70.195.153.79 ntsl942111 / [put document] main4.html
+[19 Nov 2008 23:15:54 -0500] 70.195.153.79 ntsl942111 / [list documents] -
+[19 Nov 2008 23:16:27 -0500] 70.195.153.79 ntsl942111 / [put document] includes/footer.html
+[19 Nov 2008 23:16:47 -0500] 70.195.153.79 ntsl942111 / [put document] main4.html
+[20 Nov 2008 12:00:13 -0500] 75.206.38.126 1470635-1580998 - [server version] -
+[20 Nov 2008 12:00:13 -0500] 75.206.38.126 1470635-1580998 - [url to web url] -
+[20 Nov 2008 12:00:14 -0500] 75.206.38.126 1470635-1580998 / [open service] -
+[20 Nov 2008 12:00:54 -0500] 75.206.38.126 ntsl942111 / [open service] -
+[20 Nov 2008 12:00:55 -0500] 75.206.38.126 ntsl942111 / [get document] main4.html
+[20 Nov 2008 12:01:00 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 12:01:06 -0500] 75.206.38.126 ntsl942111 / [list documents] -
+[20 Nov 2008 12:02:39 -0500] 75.206.38.126 ntsl942111 / [get document] contact.html
+[20 Nov 2008 12:04:38 -0500] 75.206.38.126 ntsl942111 / [put document] Brochure.pdf
+[20 Nov 2008 12:05:18 -0500] 75.206.38.126 ntsl942111 / [put document] Brochure.pdf
+[20 Nov 2008 12:06:37 -0500] 75.206.38.126 ntsl942111 / [put document] main4.html
+[20 Nov 2008 12:06:42 -0500] 75.206.38.126 ntsl942111 / [get document] forms.html
+[20 Nov 2008 12:06:50 -0500] 75.206.38.126 ntsl942111 / [list documents] -
+[20 Nov 2008 12:06:52 -0500] 75.206.38.126 ntsl942111 / [get document] forms/index.html
+[20 Nov 2008 12:07:40 -0500] 75.206.38.126 ntsl942111 / [put document] forms/index.html
+[20 Nov 2008 12:17:25 -0500] 75.206.38.126 ntsl942111 / [get document] resources.html
+[20 Nov 2008 12:17:27 -0500] 75.206.38.126 ntsl942111 / [get document] resources.htm
+[20 Nov 2008 12:31:10 -0500] 75.206.38.126 ntsl942111 / [list documents] -
+[20 Nov 2008 12:40:05 -0500] 75.206.38.126 ntsl942111 / [put document] AbstractsRegardingMilkPasteurization.pdf
+[20 Nov 2008 12:40:51 -0500] 75.206.38.126 ntsl942111 / [put document] AvoidingPasteurizedFoodsandWhy.pdf
+[20 Nov 2008 12:41:31 -0500] 75.206.38.126 ntsl942111 / [put document] QandARegardingFoodSupplementation.pdf
+[20 Nov 2008 12:42:33 -0500] 75.206.38.126 ntsl942111 / [put document] AspartameAlert.pdf
+[20 Nov 2008 12:43:18 -0500] 75.206.38.126 ntsl942111 / [put document] DeadlyImmunity.pdf
+[20 Nov 2008 12:50:34 -0500] 75.206.38.126 ntsl942111 / [put document] resources.htm
+[20 Nov 2008 12:50:37 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 12:56:02 -0500] 75.206.38.126 ntsl942111 / [put document] HealingProcessPeelingtheOnion.pdf
+[20 Nov 2008 12:57:42 -0500] 75.206.38.126 ntsl942111 / [put document] SevenPillarsofHealth.pdf
+[20 Nov 2008 12:59:29 -0500] 75.206.38.126 ntsl942111 / [put document] Truth.pdf
+[20 Nov 2008 13:01:29 -0500] 75.206.38.126 ntsl942111 / [put document] Sunlight.pdf
+[20 Nov 2008 13:03:26 -0500] 75.206.38.126 ntsl942111 / [list documents] -
+[20 Nov 2008 13:03:41 -0500] 75.206.38.126 ntsl942111 / [put document] resources.htm
+[20 Nov 2008 13:03:43 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 13:14:29 -0500] 75.206.38.126 ntsl942111 / [put document] Truth.pdf
+[20 Nov 2008 13:14:41 -0500] 75.206.38.126 ntsl942111 / [put document] Truth.pdf
+[20 Nov 2008 13:14:50 -0500] 75.206.38.126 ntsl942111 / [put document] resources.htm
+[20 Nov 2008 13:14:52 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 13:16:50 -0500] 75.206.38.126 ntsl942111 / [put document] resources.htm
+[20 Nov 2008 13:16:52 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 13:18:52 -0500] 75.206.38.126 ntsl942111 / [put document] resources.htm
+[20 Nov 2008 13:18:54 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 13:22:45 -0500] 75.206.38.126 ntsl942111 / [put document] main_test.html
+[20 Nov 2008 13:23:35 -0500] 75.206.38.126 ntsl942111 / [put document] main_test.html
+[20 Nov 2008 13:23:52 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 13:33:49 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 13:34:11 -0500] 75.206.38.126 ntsl942111 / [list documents] -
+[20 Nov 2008 14:23:38 -0500] 75.206.38.126 ntsl942111 / [put document] Brochure.pdf
+[20 Nov 2008 14:24:13 -0500] 75.206.38.126 ntsl942111 / [put document] Brochure.pdf
+[20 Nov 2008 14:31:47 -0500] 75.206.38.126 ntsl942111 / [get document] bios.html
+[20 Nov 2008 14:31:48 -0500] 75.206.38.126 ntsl942111 / [get document] bios.htm
+[20 Nov 2008 14:31:50 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 14:32:16 -0500] 75.206.38.126 ntsl942111 / [get document] about.html
+[20 Nov 2008 14:32:17 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 14:32:22 -0500] 75.206.38.126 ntsl942111 / [list documents] -
+[20 Nov 2008 14:33:13 -0500] 75.206.38.126 ntsl942111 / [put document] about.html
+[20 Nov 2008 14:33:18 -0500] 75.206.38.126 ntsl942111 / [get document] bios.htm
+[20 Nov 2008 14:36:11 -0500] 75.206.38.126 ntsl942111 / [get document] resources.html
+[20 Nov 2008 14:36:12 -0500] 75.206.38.126 ntsl942111 / [get document] resources.htm
+[20 Nov 2008 14:36:13 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 14:36:19 -0500] 75.206.38.126 ntsl942111 / [get document] bios.html
+[20 Nov 2008 14:36:20 -0500] 75.206.38.126 ntsl942111 / [get document] bios.htm
+[20 Nov 2008 14:37:55 -0500] 75.206.38.126 ntsl942111 / [put document] resources.htm
+[20 Nov 2008 14:37:58 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 14:43:09 -0500] 75.206.38.126 ntsl942111 / [get document] testimonials.html
+[20 Nov 2008 14:43:10 -0500] 75.206.38.126 ntsl942111 / [get document] testimonials.htm
+[20 Nov 2008 14:43:11 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 14:45:52 -0500] 75.206.38.126 ntsl942111 / [put document] testimonials.htm
+[20 Nov 2008 14:45:54 -0500] 75.206.38.126 ntsl942111 / [put document] testimonials.html
+[20 Nov 2008 16:35:19 -0500] 75.206.38.126 ntsl942111 / [get document] resources.html
+[20 Nov 2008 16:35:20 -0500] 75.206.38.126 ntsl942111 / [get document] resources.htm
+[20 Nov 2008 16:35:21 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 16:36:04 -0500] 75.206.38.126 ntsl942111 / [put document] resources.htm
+[20 Nov 2008 16:36:07 -0500] 75.206.38.126 ntsl942111 / [put document] resources.html
+[20 Nov 2008 16:36:59 -0500] 75.206.38.126 ntsl942111 / [get document] main4.html
+[20 Nov 2008 16:37:01 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 16:37:16 -0500] 75.206.38.126 ntsl942111 / [list documents] -
+[20 Nov 2008 16:37:26 -0500] 75.206.38.126 ntsl942111 / [put document] index.html
+[20 Nov 2008 16:38:27 -0500] 75.206.38.126 ntsl942111 / [get document] supplements.html
+[20 Nov 2008 16:38:28 -0500] 75.206.38.126 ntsl942111 / [get document] supplements.htm
+[20 Nov 2008 16:38:29 -0500] 75.206.38.126 ntsl942111 / [get document] includes/footer.html
+[20 Nov 2008 16:38:54 -0500] 75.206.38.126 ntsl942111 / [put document] supplements.htm
+[20 Nov 2008 16:38:56 -0500] 75.206.38.126 ntsl942111 / [put document] supplements.html
+[21 Nov 2008 13:38:10 -0500] 70.195.51.227 1470635-1580998 - [server version] -
+[21 Nov 2008 13:38:10 -0500] 70.195.51.227 1470635-1580998 - [url to web url] -
+[21 Nov 2008 13:38:11 -0500] 70.195.51.227 1470635-1580998 / [open service] -
+[21 Nov 2008 13:38:31 -0500] 70.195.51.227 ntsl942111 / [open service] -
+[21 Nov 2008 13:38:33 -0500] 70.195.51.227 ntsl942111 / [get document] contact.html
+[21 Nov 2008 13:38:34 -0500] 70.195.51.227 ntsl942111 / [get document] includes/footer.html
+[21 Nov 2008 13:38:38 -0500] 70.195.51.227 ntsl942111 / [list documents] -
+[21 Nov 2008 13:41:11 -0500] 70.195.51.227 ntsl942111 / [put document] contact.html
+[21 Nov 2008 13:43:12 -0500] 70.195.51.227 ntsl942111 / [get document] resources.html
+[21 Nov 2008 13:43:14 -0500] 70.195.51.227 ntsl942111 / [get document] resources.htm
+[21 Nov 2008 13:43:14 -0500] 70.195.51.227 ntsl942111 / [get document] includes/footer.html
+[21 Nov 2008 13:45:29 -0500] 70.195.51.227 ntsl942111 / [put document] Iodine.pdf
+[21 Nov 2008 13:47:58 -0500] 70.195.51.227 ntsl942111 / [put document] Orthoiodosupplementation.pdf
+[21 Nov 2008 13:48:34 -0500] 70.195.51.227 ntsl942111 / [put document] resources.htm
+[21 Nov 2008 13:48:36 -0500] 70.195.51.227 ntsl942111 / [put document] resources.html
+[21 Nov 2008 13:51:07 -0500] 70.195.51.227 ntsl942111 / [list documents] -
+[21 Nov 2008 13:51:09 -0500] 70.195.51.227 ntsl942111 / [get document] payment/index.html
+[21 Nov 2008 13:51:10 -0500] 70.195.51.227 ntsl942111 / [get document] payment/payment.htm
+[21 Nov 2008 13:51:11 -0500] 70.195.51.227 ntsl942111 / [get document] includes/footer.html
+[21 Nov 2008 13:51:48 -0500] 70.195.51.227 ntsl942111 / [get document] payment.html
+[21 Nov 2008 13:51:49 -0500] 70.195.51.227 ntsl942111 / [get document] includes/footer.html
+[21 Nov 2008 13:52:12 -0500] 70.195.51.227 ntsl942111 / [put document] payment.html
+[26 Nov 2008 15:16:49 -0500] 70.209.40.96 1470635-1580998 - [server version] -
+[26 Nov 2008 15:16:53 -0500] 70.209.40.96 1470635-1580998 / [open service] -
+[26 Nov 2008 15:17:06 -0500] 70.209.40.96 ntsl942111 / [open service] -
+[26 Nov 2008 15:17:09 -0500] 70.209.40.96 ntsl942111 / [list documents] -
+[26 Nov 2008 15:17:10 -0500] 70.209.40.96 ntsl942111 / [get document] index.html
+[26 Nov 2008 15:17:17 -0500] 70.209.40.96 ntsl942111 / [get document] includes/footer.html
+[26 Nov 2008 15:23:21 -0500] 70.209.40.96 1470635-1580998 - [server version] -
+[26 Nov 2008 15:23:22 -0500] 70.209.40.96 1470635-1580998 / [open service] -
+[26 Nov 2008 15:23:35 -0500] 70.209.40.96 ntsl942111 / [open service] -
+[26 Nov 2008 15:23:36 -0500] 70.209.40.96 ntsl942111 / [list documents] -
+[26 Nov 2008 15:23:37 -0500] 70.209.40.96 ntsl942111 / [get document] index.html
+[26 Nov 2008 15:28:44 -0500] 70.209.40.96 1470635-1580998 - [server version] -
+[26 Nov 2008 15:28:46 -0500] 70.209.40.96 1470635-1580998 / [open service] -
+[26 Nov 2008 15:29:03 -0500] 70.209.40.96 ntsl942111 / [open service] -
+[26 Nov 2008 15:29:04 -0500] 70.209.40.96 ntsl942111 / [list documents] -
+[26 Nov 2008 15:29:06 -0500] 70.209.40.96 ntsl942111 / [get document] index.html
+[26 Nov 2008 15:29:12 -0500] 70.209.40.96 ntsl942111 / [get document] includes/footer.html
+[26 Nov 2008 15:29:58 -0500] 70.209.40.96 ntsl942111 / [open service] -
+[26 Nov 2008 15:29:59 -0500] 70.209.40.96 ntsl942111 / [get web struct] -
+[26 Nov 2008 15:30:02 -0500] 70.209.40.96 ntsl942111 / [list documents] -
+[26 Nov 2008 15:30:21 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:30:23 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:30:43 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:30:44 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:30:46 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:30:47 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:31:03 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:31:04 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:31:22 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:31:23 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:31:27 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:31:28 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:31:45 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:31:46 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:31:47 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:31:48 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:31:53 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:31:54 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:31:56 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:31:56 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:32:27 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:32:29 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:32:31 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:32:33 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:33:06 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:33:06 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:33:11 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:33:12 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:33:53 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:33:54 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:00 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:02 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:05 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:06 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:17 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:18 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:19 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:20 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:25 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:26 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:33 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:34 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:43 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:44 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:52 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:53 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:34:56 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:34:57 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:35:26 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:35:27 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:35:28 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:35:29 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:36:23 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:36:26 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:36:36 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:36:39 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:36:46 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:36:47 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:36:48 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:36:49 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:37:13 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:37:14 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:37:19 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:37:20 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:37:51 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:37:52 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:37:56 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:37:57 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:02 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:03 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:07 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:08 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:14 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:15 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:20 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:21 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:25 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:26 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:41 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:42 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:48 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:49 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:38:52 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:38:53 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:39:04 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:39:05 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:39:26 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:39:27 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:39:35 -0500] 70.209.40.96 ntsl942111 / [get documents] -
+[26 Nov 2008 15:39:37 -0500] 70.209.40.96 ntsl942111 / [setDocsMetaInfo] -
+[26 Nov 2008 15:39:38 -0500] 70.209.40.96 ntsl942111 / [set service meta-info] -
+[26 Nov 2008 15:39:40 -0500] 70.209.40.96 ntsl942111 / [set service meta-info] -
+[26 Nov 2008 16:06:22 -0500] 70.209.40.96 1470635-1580998 - [server version] -
+[26 Nov 2008 16:06:23 -0500] 70.209.40.96 1470635-1580998 / [open service] -
+[26 Nov 2008 16:06:45 -0500] 70.209.40.96 ntsl942111 / [open service] -
+[26 Nov 2008 16:06:50 -0500] 70.209.40.96 ntsl942111 / [list documents] -
+[26 Nov 2008 16:06:51 -0500] 70.209.40.96 ntsl942111 / [get document] index.html
+[26 Nov 2008 16:06:58 -0500] 70.209.40.96 ntsl942111 / [get document] includes/footer.html
+[26 Nov 2008 16:07:10 -0500] 70.209.40.96 ntsl942111 / [get document] arrow.gif
+[26 Nov 2008 16:07:18 -0500] 70.209.40.96 ntsl942111 / [get web struct] -
+[26 Nov 2008 16:07:21 -0500] 70.209.40.96 ntsl942111 / [remove documents] arrow.gif
+[26 Nov 2008 16:07:24 -0500] 70.209.40.96 ntsl942111 / [get document] banner.gif
+[26 Nov 2008 16:07:32 -0500] 70.209.40.96 ntsl942111 / [remove documents] banner.gif
+[26 Nov 2008 16:07:38 -0500] 70.209.40.96 ntsl942111 / [get document] bottom.gif
+[26 Nov 2008 16:08:21 -0500] 70.209.40.96 ntsl942111 / [list documents] -
+[26 Nov 2008 16:08:47 -0500] 70.209.40.96 ntsl942111 / [get document] bottom.gif
+[26 Nov 2008 16:09:09 -0500] 70.209.40.96 ntsl942111 / [remove documents] inside.html
+[26 Nov 2008 16:09:14 -0500] 70.209.40.96 ntsl942111 / [remove documents] inside2.html
+[26 Nov 2008 16:09:19 -0500] 70.209.40.96 ntsl942111 / [remove documents] inside3.html
+[26 Nov 2008 16:09:27 -0500] 70.209.40.96 ntsl942111 / [remove documents] main.html
+[26 Nov 2008 16:09:34 -0500] 70.209.40.96 ntsl942111 / [remove documents] main_test.html
+[26 Nov 2008 16:09:43 -0500] 70.209.40.96 ntsl942111 / [remove documents] main1.html
+[26 Nov 2008 16:09:48 -0500] 70.209.40.96 ntsl942111 / [get document] main1SAVE.html
+[26 Nov 2008 16:09:50 -0500] 70.209.40.96 ntsl942111 / [get document] includes/footer.html
+[26 Nov 2008 16:10:01 -0500] 70.209.40.96 ntsl942111 / [remove documents] main1SAVE.html
+[26 Nov 2008 16:10:03 -0500] 70.209.40.96 ntsl942111 / [getDocsMetaInfo] -
+[26 Nov 2008 16:10:04 -0500] 70.209.40.96 ntsl942111 / [getDocsMetaInfo] -
+[26 Nov 2008 16:10:52 -0500] 70.209.40.96 ntsl942111 / [get document] water.gif
+[26 Nov 2008 16:11:13 -0500] 70.209.40.96 ntsl942111 / [remove documents] water.gif
+[26 Nov 2008 16:11:24 -0500] 70.209.40.96 ntsl942111 / [get document] images/banner.gif
+[26 Nov 2008 16:11:31 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/banner.gif
+[26 Nov 2008 16:11:41 -0500] 70.209.40.96 ntsl942111 / [get document] images/line.gif
+[26 Nov 2008 16:11:49 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/line.gif
+[26 Nov 2008 16:11:52 -0500] 70.209.40.96 ntsl942111 / [get document] images/shapeimage_2.jpg
+[26 Nov 2008 16:11:59 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/shapeimage_2.jpg
+[26 Nov 2008 16:12:04 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/shapeimage2.jpg
+[26 Nov 2008 16:12:08 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/sunburst.gif
+[26 Nov 2008 16:12:12 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/sunburst_background.gif
+[26 Nov 2008 16:12:15 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/sunburst_background2.gif
+[26 Nov 2008 16:12:18 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/sunburst2a.gif
+[26 Nov 2008 16:12:21 -0500] 70.209.40.96 ntsl942111 / [remove documents] images/sunbursta.gif
+[07 Apr 2009 22:30:09 -0400] 75.205.75.7 1470635-1580998 - [server version] -
+[07 Apr 2009 22:30:10 -0400] 75.205.75.7 1470635-1580998 / [open service] -
+[07 Apr 2009 22:30:14 -0400] 75.205.75.7 1470635-1580998 - [url to web url] -
+[07 Apr 2009 22:30:14 -0400] 75.205.75.7 1470635-1580998 / [open service] -
+[13 Jan 2010 10:52:02 -0500] 70.194.131.28 1470635-1580998 - [server version] -
+[13 Jan 2010 10:52:02 -0500] 70.194.131.28 1470635-1580998 / [open service] -
+[09 Jul 2014 23:21:49 -0400] 66.55.145.76 1470635-1580998 / [put document] -
